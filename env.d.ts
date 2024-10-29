@@ -1,0 +1,22 @@
+declare namespace NodeJS {
+  interface ProcessEnv {
+    NEXT_PUBLIC_ENV: string;
+
+    NEXT_PUBLIC_PAIRS_COUNT: string;
+    NEXT_PUBLIC_GROUPS_COUNT: string;
+    NEXT_PUBLIC_FEES_COUNT: string;
+    NEXT_PUBLIC_SECRET: string;
+
+    NEXT_PUBLIC_SEPOLIA_GUILD_API: string;
+    NEXT_PUBLIC_SEPOLIA_API: string;
+    NEXT_PUBLIC_SEPOLIA_SOCKET: string;
+    NEXT_PUBLIC_SEPOLIA_RPC: string;
+    NEXT_PUBLIC_SEPOLIA_WEBSOCKET_RPC: string;
+
+    NEXT_PUBLIC_BOTANIX_GUILD_API: string;
+    NEXT_PUBLIC_BOTANIX_API: string;
+    NEXT_PUBLIC_BOTANIX_SOCKET: string;
+    NEXT_PUBLIC_BOTANIX_RPC: string;
+    NEXT_PUBLIC_BOTANIX_WEBSOCKET_RPC: string;
+  }
+}

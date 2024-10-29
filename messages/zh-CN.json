@@ -1,0 +1,474 @@
+{
+  "Tizz-TopNavbar": {
+    "launch-app": "启动应用程序"
+  },
+  "Tizz-HeroNavbar": {
+    "new": "新的",
+    "join-our-testnet-faucet": "加入我们的测试网水龙头！"
+  },
+  "Tizz-HeroContent": {
+    "rewards": "奖励",
+    "security": "安全",
+    "freedom": "自由",
+    "community": "社区",
+    "winners-deserve": "获奖者应得的",
+    "better": "更好的",
+    "heroAd": "体验由比特币驱动的永续交易的新标准，您的交易专业知识将得到重视和奖励。 有了 Tizz，成为胜利者是值得的。",
+    "launch-app": "启动应用程序",
+    "learn-more": "了解更多"
+  },
+  "Tizz-Footer": {
+    "rights": "© 2024 蒂兹。 版权所有。",
+    "privacy-policy": "隐私政策",
+    "terms-of-service": "服务条款",
+    "cookies-settings": "Cookie 设置"
+  },
+  "Tizz-Content": {
+    "backed-by": "受支持",
+    "built-on-bitcoin": {
+      "title": "建立在比特币之上",
+      "subTitle1": "去中心化未来的去信任交易",
+      "description1": "在 Tizz，去信任交易不仅仅是一个概念；而是一个概念。 它是我们平台的基石。 受比特币去中心化模式的启发，我们创建了一个交易环境，用户可以直接交换资产，无需中介机构。 通过去信任交易，每笔交易都是透明、安全且精确执行的，反映了比特币的精神。",
+      "subTitle2": "最大化比特币的潜力",
+      "description2": "在 Tizz 上利用比特币网络无与伦比的流动性，其中深厚的流动性池确保交易的顺利和快速执行。 我们的平台旨在利用比特币在全球范围内的广泛影响力，为每个交易者（从新手到经验丰富的交易者）提供他们在 DeFi 中获得无与伦比的交易机会所需的工具。",
+      "subTitle3": "通过蜘蛛链增强安全性",
+      "description3": "为了实现这种级别的可访问性和去中心化，Tizz 基于 Botanix L-2 技术构建。 这一第 2 层解决方案增强了可扩展性和效率，同时保持了安全性和去中心化，从而利用了 Spiderchain 与 Supra 预言机（增强 Tizz 生态系统的基本元素）集成的稳健性。 这种混合确保 Tizz 上的所有交易不仅遵守严格的安全标准，而且还受益于增强的数据可靠性和准确性。 这是一个安全、互联的环境，无需信任的交易不仅仅是一个承诺，而是现实。完善比特币网络。 借助 Botanix L-2，Tizz 用户可以享受闪电般快速的交易和无缝的交易体验，同时为全球去中心化经济的增长做出贡献。"
+    },
+    "satistics": {
+      "title": "利用比特币的经济力量",
+      "description": "数十亿的每日交易量揭示了比特币巨大的市场规模，并暗示其不断增长的潜力。 市场活动如此活跃，为什么要在不能直接受到比特币价格变动影响的地方进行交易呢？",
+      "volumn-transferred-24h": "24小时转移体积",
+      "fees-generated": "产生的费用",
+      "open-perps-intrest": "开放犯罪者权益"
+    },
+    "compete-and-conquer": "竞争与征服",
+    "compete-and-conquer-description": "潜入 Tizz 竞争激烈的交易竞技场：单独竞争或在蜂巢中联手，参与激动人心的交易比赛，并提升排名。",
+    "features-designed-to-forge-winners": "旨在打造赢家的功能",
+    "tizz-trading-hives": "蒂兹交易蜂巢",
+    "features": {
+      "title": "旨在打造赢家的功能",
+      "card1": {
+        "title": "蒂兹交易蜂巢",
+        "description": "与 Tizz Trading Hives 中志同道合的交易者联手制定策略并主导市场。 这些蜂巢培养了一种竞争精神，团队合作可以扩大成功，每一次胜利都会得到集体庆祝和奖励。 利用共享的见解和策略来提升您的交易水平，从而超越竞争对手。"
+      },
+      "card2": {
+        "title": "私人",
+        "description": "我们优先考虑用户隐私。 我们的平台运行时无需进行“了解您的客户”(KYC) 验证，确保您的个人信息保密。 我们不参与数据收集或记录 IP 地址，让您在交易时安心无忧。"
+      },
+      "card3": {
+        "title": "排行榜",
+        "description": "提升 Tizz 排行榜上的排名，每笔交易都会让您更接近榜首。 展示您的交易实力，从精英中汲取见解，并将您的名字铭刻在最优秀的行列中。 这不仅仅是交易； 这是关于主宰比赛并庆祝你的胜利。"
+      },
+      "card4": {
+        "title": "最大化您在 Tizz 上的交易奖励",
+        "description": "收集的不仅仅是利润。 收获丰富的福利，包括代币空投、花粉点和独家赠品。 通过我们的利润分享模式，您进行的每笔交易都会增加您的利润奖励份额。 因为在 Tizz，胜利者确实值得更好。"
+      }
+    },
+    "launch-app": "启动应用程序",
+    "how-you-earn": {
+      "title": "你如何赚钱",
+      "card1": {
+        "title": "社交活动",
+        "description": "通过在社交媒体上制造有关 Tizz 的话题来赚取花蜜。 每一次分享、点赞和评论都会丰富您的帐户，将您的参与转化为切实的奖励。"
+      },
+      "card2": {
+        "title": "个人交易者",
+        "description": "在 Tizz 上通过交易登上顶峰：您的交易技巧将为您赢得花粉，让每笔交易不仅仅带来利润。 探索策略并建立您的声誉，同时提高您的奖励。"
+      },
+      "card3": {
+        "title": "麻疹",
+        "description": "与商人合作，充分利用蜂巢的力量。 参加独家比赛，分享利润，并提高蜂巢的花粉奖励，使每个成员的成功受益。"
+      },
+      "description": "通过推荐和社交参与赚取花蜜，通过交易胜利赚取花粉，从而提高您的潜在回报。"
+    },
+    "be-the-first-to-know": {
+      "title": "成为第一个知道",
+      "description": "在这里，卓越不仅得到认可，而且得到补偿，确保获胜者总能找到自己的优势。",
+      "exclusive-access": "独家访问：抢先公开发布并探索 Tizz 的全部功能。",
+      "priority-support": "优先支持：立即获得我们专家团队的帮助，确保从第一天起就获得顺畅的交易体验。",
+      "placeholder": "输入你的电子邮箱",
+      "sign-up": "报名"
+    },
+    "join-the-tizz-community": {
+      "title": "加入 Tizz 社区",
+      "card1": {
+        "title": "成为殖民地的一部分",
+        "description": "随时了解并参与 Tizz 社区。 及时了解项目更新和公告，同时与其他爱好者讨论趋势和策略。"
+      },
+      "card2": {
+        "title": "社区论坛",
+        "description": "在我们的社区论坛中进行更深入的讨论。 分享您的交易见解，提出问题，并与您的蜂巢和其他交易者协作来完善您的策略。"
+      },
+      "card3": {
+        "title": "资源和文档",
+        "description": "深入研究我们详细的 Gitbook，深入了解 Tizz 的平台。 这是您了解我们的功能、交易机制以及运营背后的技术的首选资源。"
+      }
+    }
+  },
+  "Trade-DepositCard": {
+    "deposit": "订金",
+    "withdraw": "提取",
+    "description1": "存入 DAI 以换取 gDAI，gDAI 是代表您在金库中的所有权的 ERC-20。 质押者从平台上的每笔交易中收取费用，以换取成为所有交易的对手方。 gDAI 实时累积这些费用。",
+    "description2": "请注意，您无法立即提取资产。 提款遵循“提款”面板上描述的纪元系统。",
+    "send": "发送",
+    "max": "最大限度",
+    "approve": "批准"
+  },
+  "Trade-StatsCard": {
+    "available": "可用的",
+    "locked": "锁定",
+    "total-value": "总价值",
+    "est-earnings": "预计盈利",
+    "your-stats": "您的统计数据"
+  },
+  "Trade-VaultCard": {
+    "collat-ratio": "科拉比率",
+    "price": "价格",
+    "supply": "供应",
+    "vault": "避难所",
+    "epoch": "时代",
+    "remaining": "其余的",
+    "start": "开始",
+    "end": "结尾",
+    "description": "流动性池激励已上线！ 单击此处查看活动池"
+  },
+  "Trade-Footer": {
+    "operational": "操作",
+    "help-and-support": "帮助支持",
+    "fast": "快速地"
+  },
+  "Trade-TopNavbar": {
+    "trade": "贸易",
+    "portfolio": "文件夹",
+    "vault": "避难所",
+    "team": "团队",
+    "more": "更多的"
+  },
+  "Trade-PortfolioAccountPanel": {
+    "your-trades": "您的交易",
+    "team-trades": "团队交易",
+    "winrate": "赢率",
+    "team-winrate": "团队胜率",
+    "avg-profit": "平均利润",
+    "team-avg-profit": "团队平均利润",
+    "avg-loss": "平均损失",
+    "team-avg-loss": "团队平均损失",
+    "account": "帐户"
+  },
+  "Trade-PortfolioHistoryPanel": {
+    "pairs": "对",
+    "groups": "团体",
+    "type": "类型",
+    "time": "时间",
+    "pair": "一对",
+    "address": "地址",
+    "price": "价格",
+    "lev": "列弗",
+    "coll": "科尔",
+    "history": "历史"
+  },
+  "Trade-PortfolioPNLPanel": {
+    "all": "全部"
+  },
+  "Trade-PortfolioStatePanel": {
+    "vault": "避难所",
+    "referrals": "推荐人",
+    "rewards": "奖励",
+    "learn-more": "了解更多",
+    "user": "用户",
+    "users": "用户"
+  },
+  "Trade-PortfolioTabBar": {
+    "dashboard": "仪表板",
+    "history": "历史",
+    "rewards": "奖励"
+  },
+  "Trade-RewardWalletConnectButton": {
+    "connect-wallet": "连接钱包",
+    "wrong-network": "网络错误",
+    "claim-all": "索取全部"
+  },
+  "Trade-SmallWalletConnectButton": {
+    "wrong-network": "网络错误",
+    "connect-wallet": "连接钱包"
+  },
+  "Trade-TradeOpenButton": {
+    "connect-wallet": "连接钱包",
+    "wallet-not-connected": "钱包未连接",
+    "wrong-network": "网络错误",
+    "approve": "批准"
+  },
+  "Trade-WallectConnectButton": {
+    "connect-wallet": "连接钱包",
+    "wrong-network": "网络错误"
+  },
+  "Trade-CloseTradeModal": {
+    "collateral": "抵押品",
+    "leverage": "杠杆作用",
+    "position-size": "头寸规模",
+    "open-price": "开盘价",
+    "current-price": "时价",
+    "price-change": "价格变动",
+    "closing-fees": "成交费用",
+    "unrealized-pnl": "未实现盈亏",
+    "receive": "收到",
+    "long": "长的",
+    "short": "短的",
+    "confirm": "确认"
+  },
+  "Trade-CongratulationModal": {
+    "congratulations": "恭喜你",
+    "go-to-team-profile": "前往团队资料"
+  },
+  "Trade-TeamCreationModal": {
+    "create-team": "创建团队",
+    "upload-image": "上传图片",
+    "cancel": "取消"
+  },
+  "Trade-TeamCreationSuccessModal": {
+    "succcess": "成功了！",
+    "go-to-team-profile": "前往团队资料"
+  },
+  "Trade-TeamInvitationCreationModal": {
+    "invite-team": "邀请团队",
+    "wallet-address": "钱包地址",
+    "cancel": "取消"
+  },
+  "Trade-TeamJoinRequestModal": {
+    "name": "姓名",
+    "actions": "行动",
+    "wallet-address": "钱包地址",
+    "date": "日期",
+    "time": "时间",
+    "user": "用户",
+    "approve": "批准",
+    "deny": "否定",
+    "approve-all": "批准全部"
+  },
+  "Trade-TeamCard": {
+    "members": "会员"
+  },
+  "Trade-TeamCreation": {
+    "create-your-hive": "创建你的蜂巢",
+    "description": "开始建造终极蜂巢。 进行社交交易合作或竞争成为最好的。 一起赢得花粉并作为获胜者获得奖励。",
+    "create-your-team": "创建你的团队"
+  },
+  "Trade-TeamInvitation": {
+    "view-all": "查看全部"
+  },
+  "Trade-TeamInvitationCard": {
+    "you-have-been-invited": "您已被邀请！",
+    "accept": "接受",
+    "deny": "否定"
+  },
+  "Trade-TeamJoinCard": {
+    "you-have-team-members-request": "您有团队成员请求",
+    "team-request": "团队请求",
+    "see-request": "查看请求"
+  },
+  "Trade-TeamLeaderboard": {
+    "leaderboard": "排行榜"
+  },
+  "Trade-TeamMembers": {
+    "team-members": "团队成员",
+    "invite-team": "邀请团队",
+    "you-dont-have-a-team-yet": "您还没有团队"
+  },
+  "Trade-TeamStatus": {
+    "when": "什么时候",
+    "time": "时间",
+    "active": "积极的",
+    "status": "地位",
+    "round-ends-in": "回合结束于"
+  },
+  "Trade-TeamSummary": {
+    "rank": "秩",
+    "members": "会员",
+    "trades": "交易",
+    "winrate": "赢率",
+    "check-team": "检查团队",
+    "invite-team": "邀请团队",
+    "join-team": "加入团队",
+    "send-join-request": "发送加入请求",
+    "are-you-sure-to-join-this-team": "您确定要加入这个团队吗？",
+    "yes": "是的",
+    "no": "不"
+  },
+  "Trade-TeamViewer": {
+    "teams": "团队",
+    "search-for-team": "搜索团队"
+  },
+  "Trade-TeamWinnerCard": {
+    "place": "地方",
+    "total-winnings": "总奖金"
+  },
+  "Trade-TeamWinners": {
+    "winners-team": "优胜者团队"
+  },
+  "Trade-HistoriesPanel": {
+    "market": "市场",
+    "no-personal-trade-histories": "无个人交易记录",
+    "date": "日期",
+    "time": "时间",
+    "address": "地址",
+    "type": "类型",
+    "price": "价格",
+    "lev": "列弗",
+    "coll": "科尔"
+  },
+  "Trade-OpenLimitOrderModal": {
+    "wrong-limit-price": "限价错误",
+    "slippage-is-0": "滑点为 0%",
+    "stop-less-is-too-big": "少停太大",
+    "stop-less-greater-than-price": "少停>价格",
+    "take-profit-less-than-price": "止盈<价格",
+    "take-profit-is-too-big": "止盈太大",
+    "leverage": "杠杆作用",
+    "collateral": "抵押品",
+    "position-size": "头寸规模",
+    "trigger-price": "触发价格",
+    "execution-price": "执行价格",
+    "max-spread": "最大点差(%)",
+    "stop-loss": "止损",
+    "none": "没有任何",
+    "take-profit": "从中受益",
+    "take-profit-price": "止盈价",
+    "opening-fee": "开业费",
+    "long": "长的",
+    "short": "短的",
+    "confirm": "确认",
+    "cancel": "取消",
+    "submit": "提交",
+    "update": "更新"
+  },
+  "Trade-OrdersPanel": {
+    "type": "类型",
+    "pair": "一对",
+    "size": "尺寸",
+    "lev": "列弗",
+    "coll": "科尔",
+    "trigger-price": "触发价格",
+    "executation-price": "执行价格",
+    "max-spread": "最大点差",
+    "close": "关闭",
+    "market": "市场",
+    "limit": "限制",
+    "stop": "停止",
+    "none": "没有任何",
+    "no-ordered-trades": "没有订单交易"
+  },
+  "Trade-SLTPUpdateModal": {
+    "current-price": "时价",
+    "liquidation-price": "强平价格",
+    "update-sl-tp": "更新止损/止盈",
+    "stop-loss": "止损",
+    "update": "更新",
+    "take-profit": "从中受益"
+  },
+  "Trade-TradeControlBar": {
+    "all": "全部"
+  },
+  "Trade-TradeHistoryModal": {
+    "date": "日期",
+    "position-size": "头寸规模",
+    "leverage": "杠杆作用",
+    "collateral": "抵押品"
+  },
+  "Trade-TradePanel": {
+    "long": "长的",
+    "short": "短的",
+    "no-opened-trades": "没有已建交易"
+  },
+  "Trade-WalletConnectStatus": {
+    "wallet-not-connected": "钱包未连接"
+  },
+  "Trade-TradeHistoryPanel": {
+    "pair": "一对",
+    "size": "尺寸（美元）",
+    "price": "价格"
+  },
+  "Trade-CollateralBalance": {
+    "balance": "平衡"
+  },
+  "Trade-CollateralPanel": {
+    "max": "最大限度"
+  },
+  "Trade-GetCollateralButton": {
+    "get-collateral": "获取抵押品",
+    "get": "得到"
+  },
+  "Trade-LeveragePanel": {
+    "leverage": "杠杆作用"
+  },
+  "Trade-OpenTradeModal": {
+    "collateral": "抵押品",
+    "leverage": "杠杆作用",
+    "position-size": "头寸规模",
+    "est-open-price": "美东时间。 开盘价",
+    "max-slippage": "最大滑点",
+    "liq-price": "液体。 价格",
+    "stop-loss": "止损",
+    "take-profit": "从中受益",
+    "fees": "费用"
+  },
+  "Trade-SLTPPanel": {
+    "stop-lose-price": "止损价",
+    "none": "没有任何"
+  },
+  "Trade-TradeDetailPanel": {
+    "est-execution-price": "美东时间。 执行价格",
+    "est-excution-price-description": "预计价格，包括您的交易执行的点差。 平仓时不会产生点差。",
+    "avg-spread": "平均。 传播",
+    "slippage": "滑移",
+    "take-profit-price": "止盈价",
+    "slippage-description": "如果价格不利变化超过此百分比，您的交易将恢复。",
+    "notional-value": "名义价值",
+    "collateral-leverage": "抵押品 * 杠杆",
+    "position-size": "持仓规模",
+    "fees": "费用",
+    "learn-more": "了解更多",
+    "liq-price": "液体。 价格",
+    "liq-price-description": "如果达到此价格，您的仓位将被平仓，您的抵押品将丢失。"
+  },
+  "Trade-TradeSidebar": {
+    "invalid-format-of-collateral-amount": "抵押金额格式无效",
+    "balance-isnt-enough": "余额不够",
+    "invalid-amount-of-collateral": "抵押品金额无效",
+    "invalid-leverage": "杠杆无效",
+    "wrong-limit-price": "限价错误",
+    "stop-less-is-too-big": "少停太大",
+    "stop-less-greater-than-price": "少停>价格",
+    "take-profit-less-than-price": "止盈<价格",
+    "take-profit-is-too-big": "止盈太大",
+    "slippage-is-0": "滑点为 0%",
+    "max-trades-reached": "已达到最大交易数",
+    "price": "价格"
+  },
+  "Trade-PairInfoBar": {
+    "open-interest-l": "未平仓合约 (L)",
+    "open-interest-s": "未平仓合约 (S)"
+  },
+  "Trade-DashbardPage": {
+    "total-trades": "总交易数",
+    "winrate": "赢率",
+    "avg-profit": "平均。 利润",
+    "avg-loss": "平均。 损失",
+    "rewards-are-live": "奖励已上线",
+    "account-0": "帐户"
+  },
+  "account": "帐户",
+  "Trade-RewardPage": {
+    "rewards-are-live": "奖励已上线",
+    "remaining": "其余的",
+    "how-it-works": "怎么运行的",
+    "view-leaderboard": "查看排行榜",
+    "your-rewards": "您的奖励"
+  },
+  "View Leaderboard": {
+    "view-leaderboard": "查看排行榜"
+  },
+  "Trade-TradePage": {
+    "chart": "图表",
+    "histories": "历史"
+  }
+}

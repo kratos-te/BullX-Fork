@@ -1,0 +1,474 @@
+{
+  "Tizz-TopNavbar": {
+    "launch-app": "Ejecutar aplicación"
+  },
+  "Tizz-HeroNavbar": {
+    "new": "Nuevo",
+    "join-our-testnet-faucet": "¡Únase a nuestro Testnet Faucet!"
+  },
+  "Tizz-HeroContent": {
+    "rewards": "Recompensas",
+    "security": "Seguridad",
+    "freedom": "Libertad",
+    "community": "Comunidad",
+    "winners-deserve": "Los ganadores merecen",
+    "better": "Mejor",
+    "heroAd": "Experimente un nuevo estándar en el comercio perpetuo, impulsado por Bitcoin, donde su experiencia comercial se valora y recompensa. Con Tizz, vale la pena ser un ganador.",
+    "launch-app": "Ejecutar aplicación",
+    "learn-more": "Aprende más"
+  },
+  "Tizz-Footer": {
+    "rights": "© 2024 Tizz. Reservados todos los derechos.",
+    "privacy-policy": "política de privacidad",
+    "terms-of-service": "Términos de servicio",
+    "cookies-settings": "Configuración de cookies"
+  },
+  "Tizz-Content": {
+    "backed-by": "Respaldado por",
+    "built-on-bitcoin": {
+      "title": "Construido sobre Bitcoin",
+      "subTitle1": "Comercio sin confianza para un futuro descentralizado",
+      "description1": "En Tizz, el comercio sin confianza no es sólo un concepto; Es la piedra angular de nuestra plataforma. Inspirándonos en el modelo descentralizado de Bitcoin, hemos creado un entorno comercial donde los usuarios pueden intercambiar activos directamente, sin necesidad de intermediarios. Con el comercio sin confianza, cada transacción es transparente, segura y ejecutada con precisión, reflejando el espíritu de Bitcoin.",
+      "subTitle2": "Maximizando el potencial de Bitcoin",
+      "description2": "Aproveche la liquidez inigualable de la red Bitcoin en Tizz, donde los profundos fondos de liquidez garantizan una ejecución rápida y fluida de las operaciones. Nuestra plataforma está diseñada para aprovechar el vasto alcance global de Bitcoin, brindando a cada operador, desde el principiante hasta el experimentado, las herramientas que necesita para oportunidades comerciales incomparables dentro de DeFi.",
+      "subTitle3": "Potenciando la seguridad con Spiderchain",
+      "description3": "Para lograr este nivel de accesibilidad y descentralización, Tizz se basa en la tecnología Botanix L-2. Esta solución de capa 2 mejora la escalabilidad y la eficiencia al tiempo que mantiene la seguridad y la descentralización que dAprovecha la solidez de Spiderchain integrada con los oráculos Supra, elementos fundamentales que mejoran el ecosistema de Tizz. Esta combinación garantiza que todas las transacciones en Tizz no solo cumplan con estrictos estándares de seguridad, sino que también se beneficien de una mayor confiabilidad y precisión de los datos. Es un entorno seguro e interconectado donde el comercio sin confianza no es sólo una promesa, es una realidad. Definir la red de Bitcoin. Con Botanix L-2, los usuarios de Tizz pueden disfrutar de transacciones ultrarrápidas y una experiencia comercial fluida, al mismo tiempo que contribuyen al crecimiento de la economía descentralizada global."
+    },
+    "satistics": {
+      "title": "Aproveche el poder económico de Bitcoin",
+      "description": "Miles de millones en transacciones diarias revelan la enorme escala del mercado de Bitcoin e insinúan su creciente potencial. Con una actividad de mercado tan vibrante, ¿por qué operar en cualquier lugar que no le permita estar directamente expuesto a los movimientos de precios de Bitcoin?",
+      "volumn-transferred-24h": "Volumen transferido 24h",
+      "fees-generated": "Tarifas generadas",
+      "open-perps-intrest": "Interés abierto de los delincuentes"
+    },
+    "compete-and-conquer": "Competir y conquistar",
+    "compete-and-conquer-description": "Sumérgete en el competitivo campo comercial de Tizz: compite solo o une fuerzas en una colmena, participa en emocionantes competencias comerciales y asciende de rango.",
+    "features-designed-to-forge-winners": "Funciones diseñadas para forjar ganadores",
+    "tizz-trading-hives": "Colmenas comerciales de Tizz",
+    "features": {
+      "title": "Funciones diseñadas para forjar ganadores",
+      "card1": {
+        "title": "Colmenas comerciales de Tizz",
+        "description": "Únase a fuerzas con comerciantes de ideas afines en Tizz Trading Hives para diseñar estrategias y dominar los mercados. Estas colmenas fomentan un espíritu de competencia donde el trabajo en equipo amplifica el éxito, y cada victoria se celebra y recompensa colectivamente. Mejore su juego comercial aprovechando los conocimientos y estrategias compartidos para superar a la competencia."
+      },
+      "card2": {
+        "title": "privado",
+        "description": "Priorizamos la privacidad del usuario. Nuestra plataforma opera sin la necesidad de verificación Conozca a su cliente (KYC), lo que garantiza que su información personal permanezca confidencial. No nos involucramos en la recopilación de datos ni registramos direcciones IP, lo que le brinda tranquilidad mientras opera."
+      },
+      "card3": {
+        "title": "Tabla de clasificación",
+        "description": "Asciende de rango en las tablas de clasificación de Tizz, donde cada operación te acerca a la cima. Muestre su destreza comercial, obtenga información de la élite y grabe su nombre entre los mejores. No se trata sólo de comerciar; se trata de dominar la competencia y celebrar tus victorias."
+      },
+      "card4": {
+        "title": "Maximice sus recompensas comerciales en Tizz",
+        "description": "Obtenga más que solo ganancias. Obtenga una gran cantidad de beneficios que incluyen lanzamientos aéreos simbólicos, puntos de polen y obsequios exclusivos. Con nuestro modelo de participación en las ganancias, cada operación que realice aumenta su parte de la recompensa de ganancias. Porque en Tizz los ganadores realmente merecen algo mejor."
+      }
+    },
+    "launch-app": "Ejecutar aplicación",
+    "how-you-earn": {
+      "title": "¿Cómo se gana?",
+      "card1": {
+        "title": "Socialidades",
+        "description": "Gana néctar creando rumores sobre Tizz en las redes sociales. Cada acción, me gusta y comentario enriquece su cuenta, transformando su participación en recompensas tangibles."
+      },
+      "card2": {
+        "title": "Comerciantes individuales",
+        "description": "Opere hasta llegar a la cima en Tizz: su habilidad comercial le otorga polen, lo que convierte cada operación en algo más que ganancias. Explore estrategias y construya su reputación mientras mejora sus recompensas."
+      },
+      "card3": {
+        "title": "Urticaria",
+        "description": "Colabore con comerciantes para aprovechar la fortaleza de su colmena. Compite en competencias exclusivas, comparte las ganancias y aumenta las recompensas de polen de tu colmena, beneficiando el éxito de cada miembro."
+      },
+      "description": "Gane Néctar a través de referencias y participación social, y Polen por victorias comerciales, lo que aumenta sus ganancias potenciales."
+    },
+    "be-the-first-to-know": {
+      "title": "Se el primero en saberlo",
+      "description": "Aquí, la excelencia no sólo se reconoce: se compensa, lo que garantiza que los ganadores siempre encuentren su ventaja.",
+      "exclusive-access": "Acceso exclusivo: adelántese al lanzamiento público y explore todas las capacidades de Tizz.",
+      "priority-support": "Soporte prioritario: reciba asistencia inmediata de nuestro equipo de expertos, lo que garantiza una experiencia comercial fluida desde el primer día.",
+      "placeholder": "Introduce tu correo electrónico",
+      "sign-up": "Inscribirse"
+    },
+    "join-the-tizz-community": {
+      "title": "Únase a la comunidad Tizz",
+      "card1": {
+        "title": "Conviértete en parte de la colonia",
+        "description": "Manténgase informado e involucrado con la comunidad de Tizz. Manténgase al día con las actualizaciones y anuncios del proyecto mientras interactúa con otros entusiastas para discutir tendencias y estrategias."
+      },
+      "card2": {
+        "title": "Foros de la comunidad",
+        "description": "Sumérjase en discusiones más profundas en nuestros foros comunitarios. Comparta sus conocimientos comerciales, haga preguntas y colabore con su colmena y otros operadores para perfeccionar sus estrategias."
+      },
+      "card3": {
+        "title": "Recursos y documentación",
+        "description": "Sumérgete en nuestro detallado Gitbook para obtener información sobre la plataforma de Tizz. Es su recurso de referencia para comprender nuestras características, mecanismos comerciales y la tecnología detrás de nuestras operaciones."
+      }
+    }
+  },
+  "Trade-DepositCard": {
+    "deposit": "Depósito",
+    "withdraw": "Retirar",
+    "description1": "Deposite DAI a cambio de gDAI, un ERC-20 que representa su propiedad en la bóveda. Los participantes reciben tarifas por cada operación realizada en la plataforma a cambio de actuar como contraparte de todas las operaciones. gDAI acumula estas tarifas en tiempo real.",
+    "description2": "Tenga en cuenta que no puede retirar sus activos inmediatamente. Los retiros siguen un sistema de época descrito en el panel Retiros.",
+    "send": "Enviar",
+    "max": "máx.",
+    "approve": "Aprobar"
+  },
+  "Trade-StatsCard": {
+    "available": "Disponible",
+    "locked": "bloqueado",
+    "total-value": "Valor total",
+    "est-earnings": "Ganancias estimadas",
+    "your-stats": "Tus estadísticas"
+  },
+  "Trade-VaultCard": {
+    "collat-ratio": "Relación de clasificación",
+    "price": "Precio",
+    "supply": "Suministrar",
+    "vault": "Bóveda",
+    "epoch": "Época",
+    "remaining": "Restante",
+    "start": "Comenzar",
+    "end": "Fin",
+    "description": "¡Los incentivos del fondo de liquidez ya están disponibles! Haga clic aquí para ver grupos activos"
+  },
+  "Trade-Footer": {
+    "operational": "Operacional",
+    "help-and-support": "Servicio de asistencia",
+    "fast": "Rápido"
+  },
+  "Trade-TopNavbar": {
+    "trade": "Comercio",
+    "portfolio": "portafolio",
+    "vault": "Bóveda",
+    "team": "Equipo",
+    "more": "Más"
+  },
+  "Trade-PortfolioAccountPanel": {
+    "your-trades": "Tus operaciones",
+    "team-trades": "Comercios de equipo",
+    "winrate": "Ratio de victorias",
+    "team-winrate": "Tasa de victorias del equipo",
+    "avg-profit": "Beneficio promedio",
+    "team-avg-profit": "Beneficio promedio del equipo",
+    "avg-loss": "Pérdida promedio",
+    "team-avg-loss": "Pérdida promedio del equipo",
+    "account": "Cuenta"
+  },
+  "Trade-PortfolioHistoryPanel": {
+    "pairs": "Pares",
+    "groups": "Grupos",
+    "type": "Tipo",
+    "time": "Tiempo",
+    "pair": "Par",
+    "address": "DIRECCIÓN",
+    "price": "Precio",
+    "lev": "Lev",
+    "coll": "col",
+    "history": "Historia"
+  },
+  "Trade-PortfolioPNLPanel": {
+    "all": "TODO"
+  },
+  "Trade-PortfolioStatePanel": {
+    "vault": "Bóveda",
+    "referrals": "Referencias",
+    "rewards": "Recompensas",
+    "learn-more": "Aprende más",
+    "user": "Usuario",
+    "users": "Usuarios"
+  },
+  "Trade-PortfolioTabBar": {
+    "dashboard": "Panel",
+    "history": "Historia",
+    "rewards": "Recompensas"
+  },
+  "Trade-RewardWalletConnectButton": {
+    "connect-wallet": "Conectar billetera",
+    "wrong-network": "Red equivocada",
+    "claim-all": "Reclamar todo"
+  },
+  "Trade-SmallWalletConnectButton": {
+    "wrong-network": "Red equivocada",
+    "connect-wallet": "Conectar billetera"
+  },
+  "Trade-TradeOpenButton": {
+    "connect-wallet": "Conectar billetera",
+    "wallet-not-connected": "Cartera no conectada",
+    "wrong-network": "Red equivocada",
+    "approve": "Aprobar"
+  },
+  "Trade-WallectConnectButton": {
+    "connect-wallet": "Conectar billetera",
+    "wrong-network": "Red equivocada"
+  },
+  "Trade-CloseTradeModal": {
+    "collateral": "Colateral",
+    "leverage": "Aprovechar",
+    "position-size": "Tamaño de posición",
+    "open-price": "Precio de apertura",
+    "current-price": "Precio actual",
+    "price-change": "Cambio de precio",
+    "closing-fees": "Tarifas de cierre",
+    "unrealized-pnl": "PnL no realizado",
+    "receive": "Recibir",
+    "long": "LARGO",
+    "short": "CORTO",
+    "confirm": "Confirmar"
+  },
+  "Trade-CongratulationModal": {
+    "congratulations": "Felicidades",
+    "go-to-team-profile": "Ir al perfil del equipo"
+  },
+  "Trade-TeamCreationModal": {
+    "create-team": "Crear equipo",
+    "upload-image": "Cargar imagen",
+    "cancel": "Cancelar"
+  },
+  "Trade-TeamCreationSuccessModal": {
+    "succcess": "¡Éxito!",
+    "go-to-team-profile": "Ir al perfil del equipo"
+  },
+  "Trade-TeamInvitationCreationModal": {
+    "invite-team": "Invitar equipo",
+    "wallet-address": "Dirección de billetera",
+    "cancel": "Cancelar"
+  },
+  "Trade-TeamJoinRequestModal": {
+    "name": "Nombre",
+    "actions": "Comportamiento",
+    "wallet-address": "Dirección de billetera",
+    "date": "Fecha",
+    "time": "Tiempo",
+    "user": "Usuario",
+    "approve": "Aprobar",
+    "deny": "Denegar",
+    "approve-all": "Aprobar todo"
+  },
+  "Trade-TeamCard": {
+    "members": "Miembros"
+  },
+  "Trade-TeamCreation": {
+    "create-your-hive": "Crea tu colmena",
+    "description": "Comience a construir la colmena definitiva. Colabora en el comercio social o compite para ser el mejor. Juntos, ganen polen y sean recompensados como ganadores.",
+    "create-your-team": "Crea tu equipo"
+  },
+  "Trade-TeamInvitation": {
+    "view-all": "Ver todo"
+  },
+  "Trade-TeamInvitationCard": {
+    "you-have-been-invited": "¡Has sido invitado!",
+    "accept": "Aceptar",
+    "deny": "Denegar"
+  },
+  "Trade-TeamJoinCard": {
+    "you-have-team-members-request": "Tienes una solicitud de miembros del equipo.",
+    "team-request": "Solicitud de equipo",
+    "see-request": "Ver Solicitud"
+  },
+  "Trade-TeamLeaderboard": {
+    "leaderboard": "Tabla de clasificación"
+  },
+  "Trade-TeamMembers": {
+    "team-members": "Miembros del equipo",
+    "invite-team": "Invitar equipo",
+    "you-dont-have-a-team-yet": "Aún no tienes un equipo"
+  },
+  "Trade-TeamStatus": {
+    "when": "Cuando",
+    "time": "Tiempo",
+    "active": "Activo",
+    "status": "Estado",
+    "round-ends-in": "La ronda termina en"
+  },
+  "Trade-TeamSummary": {
+    "rank": "Rango",
+    "members": "Miembros",
+    "trades": "Vientos alisios",
+    "winrate": "Ratio de victorias",
+    "check-team": "Comprobar equipo",
+    "invite-team": "Invitar equipo",
+    "join-team": "Unirse al equipo",
+    "send-join-request": "Enviar solicitud de unión",
+    "are-you-sure-to-join-this-team": "¿Estás seguro de unirte a este equipo?",
+    "yes": "Sí",
+    "no": "No"
+  },
+  "Trade-TeamViewer": {
+    "teams": "equipos",
+    "search-for-team": "buscar equipo"
+  },
+  "Trade-TeamWinnerCard": {
+    "place": "Lugar",
+    "total-winnings": "Victorias totales"
+  },
+  "Trade-TeamWinners": {
+    "winners-team": "Equipo de ganadores"
+  },
+  "Trade-HistoriesPanel": {
+    "market": "MERCADO",
+    "no-personal-trade-histories": "Sin antecedentes comerciales personales",
+    "date": "Fecha",
+    "time": "Tiempo",
+    "address": "DIRECCIÓN",
+    "type": "Tipo",
+    "price": "Precio",
+    "lev": "Lev",
+    "coll": "col"
+  },
+  "Trade-OpenLimitOrderModal": {
+    "wrong-limit-price": "Precio límite incorrecto",
+    "slippage-is-0": "El deslizamiento es 0%",
+    "stop-less-is-too-big": "Detener menos es demasiado grande",
+    "stop-less-greater-than-price": "Para menos > precio",
+    "take-profit-less-than-price": "Tomar ganancias <precio",
+    "take-profit-is-too-big": "Tomar ganancias es demasiado grande",
+    "leverage": "Aprovechar",
+    "collateral": "Colateral",
+    "position-size": "Tamaño de posición",
+    "trigger-price": "Precio de activación",
+    "execution-price": "Precio de ejecución",
+    "max-spread": "Spread máximo(%)",
+    "stop-loss": "Detener la pérdida de",
+    "none": "Ninguno",
+    "take-profit": "Saca provecho",
+    "take-profit-price": "Precio de obtención de beneficios",
+    "opening-fee": "Tarifa de apertura",
+    "long": "LARGO",
+    "short": "CORTO",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "submit": "Entregar",
+    "update": "Actualizar"
+  },
+  "Trade-OrdersPanel": {
+    "type": "Tipo",
+    "pair": "Par",
+    "size": "Tamaño",
+    "lev": "Lev",
+    "coll": "col",
+    "trigger-price": "Precio de activación",
+    "executation-price": "Precio de ejecución",
+    "max-spread": "Propagación máxima",
+    "close": "Cerca",
+    "market": "MERCADO",
+    "limit": "LÍMITE",
+    "stop": "DETENER",
+    "none": "Ninguno",
+    "no-ordered-trades": "No hay operaciones ordenadas"
+  },
+  "Trade-SLTPUpdateModal": {
+    "current-price": "Precio actual",
+    "liquidation-price": "Precio de liquidación",
+    "update-sl-tp": "ACTUALIZAR SL/TP",
+    "stop-loss": "Detener la pérdida de",
+    "update": "Actualizar",
+    "take-profit": "Saca provecho"
+  },
+  "Trade-TradeControlBar": {
+    "all": "Todo"
+  },
+  "Trade-TradeHistoryModal": {
+    "date": "Fecha",
+    "position-size": "Tamaño de posición",
+    "leverage": "Aprovechar",
+    "collateral": "Colateral"
+  },
+  "Trade-TradePanel": {
+    "long": "LARGO",
+    "short": "CORTO",
+    "no-opened-trades": "No hay operaciones abiertas"
+  },
+  "Trade-WalletConnectStatus": {
+    "wallet-not-connected": "Cartera no conectada"
+  },
+  "Trade-TradeHistoryPanel": {
+    "pair": "Par",
+    "size": "Tamaño ($)",
+    "price": "Precio"
+  },
+  "Trade-CollateralBalance": {
+    "balance": "Balance"
+  },
+  "Trade-CollateralPanel": {
+    "max": "máx."
+  },
+  "Trade-GetCollateralButton": {
+    "get-collateral": "Obtener garantía",
+    "get": "Conseguir"
+  },
+  "Trade-LeveragePanel": {
+    "leverage": "Aprovechar"
+  },
+  "Trade-OpenTradeModal": {
+    "collateral": "Colateral",
+    "leverage": "Aprovechar",
+    "position-size": "Tamaño de posición",
+    "est-open-price": "Est. Precio de apertura",
+    "max-slippage": "Deslizamiento máximo",
+    "liq-price": "Licuado. Precio",
+    "stop-loss": "Detener la pérdida de",
+    "take-profit": "Saca provecho",
+    "fees": "Honorarios"
+  },
+  "Trade-SLTPPanel": {
+    "stop-lose-price": "Dejar de perder precio",
+    "none": "Ninguno"
+  },
+  "Trade-TradeDetailPanel": {
+    "est-execution-price": "Est. Precio de ejecución",
+    "est-excution-price-description": "El precio estimado, incluido el diferencial, al que se ejecutará su operación. No habrá diferencial al cerrar la operación.",
+    "avg-spread": "Promedio Desparramar",
+    "slippage": "deslizamiento",
+    "take-profit-price": "Precio de obtención de beneficios",
+    "slippage-description": "Su transacción se revertirá si el precio cambia desfavorablemente en más de este porcentaje.",
+    "notional-value": "Valor nocional",
+    "collateral-leverage": "Garantía * Apalancamiento",
+    "position-size": "Tamaño de posición",
+    "fees": "Honorarios",
+    "learn-more": "Aprende más",
+    "liq-price": "Licuado. Precio",
+    "liq-price-description": "Si se alcanza este precio, su posición se cerrará y su garantía se perderá."
+  },
+  "Trade-TradeSidebar": {
+    "invalid-format-of-collateral-amount": "Formato no válido del monto de la garantía",
+    "balance-isnt-enough": "El saldo no es suficiente",
+    "invalid-amount-of-collateral": "Cantidad no válida de garantía",
+    "invalid-leverage": "Apalancamiento no válido",
+    "wrong-limit-price": "Precio límite incorrecto",
+    "stop-less-is-too-big": "Detener menos es demasiado grande",
+    "stop-less-greater-than-price": "Para menos > precio",
+    "take-profit-less-than-price": "Tomar ganancias <precio",
+    "take-profit-is-too-big": "Tomar ganancias es demasiado grande",
+    "slippage-is-0": "El deslizamiento es 0%",
+    "max-trades-reached": "Operaciones máximas alcanzadas",
+    "price": "Precio"
+  },
+  "Trade-PairInfoBar": {
+    "open-interest-l": "Interés abierto (L)",
+    "open-interest-s": "Interés abierto (S)"
+  },
+  "Trade-DashbardPage": {
+    "total-trades": "Operaciones totales",
+    "winrate": "Ratio de victorias",
+    "avg-profit": "Promedio Ganancia",
+    "avg-loss": "Promedio Pérdida",
+    "rewards-are-live": "Las recompensas están en vivo",
+    "account-0": "Cuenta"
+  },
+  "account": "Cuenta",
+  "Trade-RewardPage": {
+    "rewards-are-live": "Las recompensas están en vivo",
+    "remaining": "Restante",
+    "how-it-works": "Cómo funciona",
+    "view-leaderboard": "Ver tabla de clasificación",
+    "your-rewards": "Tus recompensas"
+  },
+  "View Leaderboard": {
+    "view-leaderboard": "Ver tabla de clasificación"
+  },
+  "Trade-TradePage": {
+    "chart": "Cuadro",
+    "histories": "Historias"
+  }
+}

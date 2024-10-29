@@ -1,0 +1,635 @@
+{
+  "Login-TopNavbar": {
+    "connect": "LogIn",
+    "signup": "SignUp"
+  },
+  "Login-HeroContent": {
+    "title": "Start Trading in seconds",
+    "content": "Connect your telegram to start trading instantly",
+    "connect-telegram": "Connect Telegram",
+    "privacy-policy": "Privacy Policy",
+    "terms-of-service": "Terms & Condition"
+  },
+  "Tizz-TopNavbar": {
+    "launch-app": "Launch App"
+  },
+  "Tizz-HeroNavbar": {
+    "new": "New",
+    "join-our-testnet-faucet": "Join our Testnet Faucet!"
+  },
+  "Tizz-HeroContent": {
+    "rewards": "Rewards",
+    "security": "Security",
+    "freedom": "Freedom",
+    "community": "Community",
+    "winners-deserve": "Winners Deserve",
+    "better": "Better",
+    "heroAd": "Experience a new standard in perpetual trading, powered by Bitcoin, where your trading expertise is valued and rewarded. With Tizz, it pays to be a winner.",
+    "launch-app": "Launch App",
+    "learn-more": "Learn More"
+  },
+  "Tizz-Footer": {
+    "rights": "© 2024 Tizz. All rights reserved.",
+    "privacy-policy": "Privacy Policy",
+    "terms-of-service": "Terms of Service",
+    "cookies-settings": "Cookies Settings"
+  },
+  "Tizz-Content": {
+    "backed-by": "Backed By",
+    "built-on-bitcoin": {
+      "title": "Built On Bitcoin",
+      "subTitle1": "Trustless Trading for a Decentralized Future",
+      "description1": "At Tizz, trustless trading isn't just a concept; it' the cornerstone of our platform. Inspired by Bitcoin's decentralized model, we've created a trading environment where users can exchange assets directly, without the need for intermediaries. With trustless trading, every transaction is transparent, secure, and executed with precision, mirroring the ethos of Bitcoin.",
+      "subTitle2": "Maximizing Bitcoin's Potential",
+      "description2": "Leverage the unrivaled liquidity of the Bitcoin network on Tizz, where deep liquidity pools ensure smooth and rapid execution of trades. Our platform is designed to tap into the vast global reach of Bitcoin, providing every trader—from the novice to the seasoned—the tools they need for unmatched trading opportunities within DeFi.",
+      "subTitle3": "Empowering Security with Spiderchain",
+      "description3": "To achieve this level of accessibility and decentralization, Tizz is built on Botanix L-2 technology. This layer-2 solution enhances scalability and efficiency while maintaining the security and decentralization that dHarnessing the robustness of Spiderchain integrated with Supra oracles, foundational elements that enhance Tizz’s ecosystem. This blend ensures all transactions on Tizz not only uphold stringent security standards but also benefit from enhanced reliability and accuracy of data. It’s a secure, interconnected environment where trustless trading isn’t just a promise—it’s reality.efine Bitcoin's network. With Botanix L-2, Tizz users can enjoy lightning-fast transactions and a seamless trading experience, all while contributing to the growth of the global decentralized economy."
+    },
+    "satistics": {
+      "title": "Tap into Bitcoin's Economic Power",
+      "description": "Billions in daily transactions reveal Bitcoin's massive market scale and hint at its growing potential. With such vibrant market activity, why trade anywhere that doesn't let you stay directly exposed to Bitcoin's price movements?",
+      "volumn-transferred-24h": "Volumn Transferred 24h",
+      "fees-generated": "Fees Generated",
+      "open-perps-intrest": "Open Perps Intrest"
+    },
+    "compete-and-conquer": "Compete & Conquer",
+    "compete-and-conquer-description": "Dive into Tizz’s competitive trading arena: compete alone or join forces in a hive, engage in thrilling trading competitions, and rise through the ranks.",
+    "features-designed-to-forge-winners": "Features Designed To Forge Winners",
+    "tizz-trading-hives": "Tizz Trading Hives",
+    "features": {
+      "title": "Features Designed To Forge Winners",
+      "card1": {
+        "title": "Tizz Trading Hives",
+        "description": "Join forces with like-minded traders in Tizz Trading Hives to strategize and dominate the markets. These hives foster a spirit of competition where teamwork amplifies success, with each victory celebrated and rewarded collectively. Elevate your trading game by leveraging shared insights and strategies to outperform the competition."
+      },
+      "card2": {
+        "title": "Privary",
+        "description": "We prioritize user privacy. Our platform operates without the need for Know Your Customer (KYC) verification,, ensuring that your personal information remains confidential. We do not engage in data harvesting or record IP addresses, giving you peace of mind while you trade."
+      },
+      "card3": {
+        "title": "Leaderboard",
+        "description": "Ascend the ranks on Tizz's leaderboards, where every trade pushes you closer to the top. Showcase your trading prowess, draw insights from the elite, and etch your name among the best. It’s not just about trading; it’s about dominating the competition and celebrating your victories."
+      },
+      "card4": {
+        "title": "Maximize your trading rewards on Tizz",
+        "description": "Collect more than just profits. Harvest a wealth of perks including token airdrops, Pollen Points, and exclusive giveaways. With our profit-sharing model, every trade you make adds to your share of the profit reward. Because at Tizz, winners truly deserve better."
+      }
+    },
+    "launch-app": "Launch App",
+    "how-you-earn": {
+      "title": "How You Earn",
+      "card1": {
+        "title": "Socialities",
+        "description": "Earn Nectar by creating buzz about Tizz on social media. Every share, like, and comment enriches your account, transforming your  engagement into tangible rewards."
+      },
+      "card2": {
+        "title": "Individual Traders",
+        "description": "Trade your way to the top on Tizz: Your trading skill earns you Pollen,  turning every trade into more than just profit. Explore strategies and build your reputation while enhancing your rewards."
+      },
+      "card3": {
+        "title": "Hives",
+        "description": "Collaborate with traders to leverage your hive's strength. Compete in exclusive competitions, share in the profits, and boost your hive's Pollen rewards, benefiting every member's success."
+      },
+      "description": "Earn Nectar through referrals and social engagement, and Pollen for trading victories, boosting your potential returns."
+    },
+    "be-the-first-to-know": {
+      "title": "Be the first to know",
+      "description": "Here, excellence isn't just acknowledged—it's compensated, ensuring winners always find their edge.",
+      "exclusive-access": "Exclusive Access: Step ahead of the public launch and explore Tizz’s full capabilities.",
+      "priority-support": "Priority Support: Receive immediate assistance from our expert team, ensuring a smooth trading experience from day one.",
+      "placeholder": "Enter your email",
+      "sign-up": "Sign Up"
+    },
+    "join-the-tizz-community": {
+      "title": "Join The Tizz Community",
+      "card1": {
+        "title": "Become Part of the Colony",
+        "description": "Stay informed and involved with the Tizz community. Keep up with project  updates and announcements while engaging with fellow enthusiasts to  discuss trends and strategies."
+      },
+      "card2": {
+        "title": "Community Forums",
+        "description": "Dive into deeper discussions in our community forums. Share your trading insights,  ask questions, and collaborate with your hive and other traders to refine your strategies."
+      },
+      "card3": {
+        "title": "Resources & Documentation",
+        "description": "Dive into our detailed Gitbook for insights into Tizz’s platform. It's  your go-to resource for understanding our features, trading mechanics,  and the technology behind our operations."
+      }
+    }
+  },
+  "Trade-DepositCard": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "description1": "Deposit DAI in exchange for gDAI, an ERC-20 representing your ownership in the vault. Stakers receive fees from each trade placed on the platform in exchange for serving as the counterparty to all trades. gDAI accumulates these fees in real-time.",
+    "description2": "Please be aware, you can't immediately withdraw your assets. Withdraws follow an epoch system described on the Withdraw panel.",
+    "send": "Send",
+    "max": "Max",
+    "approve": "Approve"
+  },
+  "Trade-StatsCard": {
+    "available": "Available",
+    "locked": "Locked",
+    "total-value": "Total Value",
+    "est-earnings": "Est.Earnings",
+    "your-stats": "Your Stats"
+  },
+  "Trade-VaultCard": {
+    "collat-ratio": "Collat Ratio",
+    "price": "Price",
+    "supply": "Supply",
+    "vault": "Vault",
+    "epoch": "Epoch",
+    "remaining": "Remaining",
+    "start": "Start",
+    "end": "End",
+    "description": "Liquidity pool incentives are live! Click here for active pools"
+  },
+  "Trade-Footer": {
+    "operational": "Operational",
+    "help-and-support": "Help & Support",
+    "fast": "Fast"
+  },
+  "Trade-TopNavbar": {
+    "trade": "Trade",
+    "portfolio": "Portfolio",
+    "vault": "Vault",
+    "team": "Team",
+    "more": "More",
+    "stats": "Stats",
+    "leaderboard": "Leaderboard",
+    "faucet": "Faucet",
+    "prediction": "Prediction"
+  },
+  "Trade-PortfolioAccountPanel": {
+    "your-trades": "Your Trades",
+    "team-trades": "Team Trades",
+    "winrate": "Winrate",
+    "team-winrate": "Team Winrate",
+    "avg-profit": "Avg. Profit",
+    "team-avg-profit": "Team Avg. Profit",
+    "avg-loss": "Avg. Loss",
+    "team-avg-loss": "Team Avg. Loss",
+    "account": "Account"
+  },
+  "Trade-PortfolioHistoryPanel": {
+    "pairs": "Pairs",
+    "groups": "Groups",
+    "type": "Type",
+    "time": "Time",
+    "pair": "Pair",
+    "address": "Address",
+    "price": "Price",
+    "lev": "Lev",
+    "coll": "Coll",
+    "history": "History"
+  },
+  "Trade-PortfolioPNLPanel": {
+    "all": "ALL"
+  },
+  "Trade-PortfolioStatePanel": {
+    "vault": "Vault",
+    "referrals": "Referrals",
+    "rewards": "Rewards",
+    "learn-more": "Learn More",
+    "user": "User",
+    "users": "Users"
+  },
+  "Trade-PortfolioTabBar": {
+    "dashboard": "Dashboard",
+    "history": "History",
+    "rewards": "Rewards"
+  },
+  "Trade-RewardWalletConnectButton": {
+    "connect-wallet": "Connect Wallet",
+    "wrong-network": "Wrong network",
+    "claim-all": "Claim All"
+  },
+  "Trade-SmallWalletConnectButton": {
+    "wrong-network": "Wrong network",
+    "connect-wallet": "Connect Wallet"
+  },
+  "Trade-TradeOpenButton": {
+    "connect-wallet": "Connect Wallet",
+    "wallet-not-connected": "Wallet not connected",
+    "wrong-network": "Wrong network",
+    "approve": "Approve"
+  },
+  "Trade-WallectConnectButton": {
+    "connect-wallet": "Connect Wallet",
+    "wrong-network": "Wrong network"
+  },
+  "Trade-CloseTradeModal": {
+    "collateral": "Collateral",
+    "leverage": "Leverage",
+    "position-size": "Position Size",
+    "open-price": "Open Price",
+    "current-price": "Current Price",
+    "price-change": "Price Change",
+    "closing-fees": "Closing Fees",
+    "unrealized-pnl": "Unrealized PnL",
+    "receive": "Receive",
+    "long": "LONG",
+    "short": "SHORT",
+    "confirm": "Confirm",
+    "funding-fees": "Funding Fees"
+  },
+  "Trade-CongratulationModal": {
+    "congratulations": "Congratulations",
+    "go-to-team-profile": "Go to team profile",
+    "description": ""
+  },
+  "Trade-TeamCreationModal": {
+    "create-team": "Create Team",
+    "upload-image": "Upload Image",
+    "cancel": "Cancel"
+  },
+  "Trade-TeamCreationSuccessModal": {
+    "succcess": "Succcess!",
+    "go-to-team-profile": "Go to team profile",
+    "description": "Celebrate your achievement! Your team has been successfully created. Dive deeper into your team's details and start collaborating with your members by exploring your team profile."
+  },
+  "Trade-TeamInvitationCreationModal": {
+    "invite-team": "Invite Team",
+    "wallet-address": "Wallet Address",
+    "cancel": "Cancel"
+  },
+  "Trade-TeamJoinRequestModal": {
+    "name": "Name",
+    "actions": "Actions",
+    "wallet-address": "Wallet Address",
+    "date": "Date",
+    "time": "Time",
+    "user": "User",
+    "approve": "Approve",
+    "deny": "Deny",
+    "approve-all": "Approve all"
+  },
+  "Trade-TeamCard": {
+    "members": "Members"
+  },
+  "Trade-TeamCreation": {
+    "create-your-hive": "Create your hive",
+    "description": "Start building the ultimate hive. Collaborate on social trading or compete to be the best. Together, earn Pollen and get rewarded as winners.",
+    "create-your-team": "Create Your Team"
+  },
+  "Trade-TeamInvitation": {
+    "view-all": "View all"
+  },
+  "Trade-TeamInvitationCard": {
+    "you-have-been-invited": "You have been invited!",
+    "accept": "Accept",
+    "deny": "Deny",
+    "rank": "Rank",
+    "members": "Members",
+    "trades": "Trades",
+    "winrate": "Winrate"
+  },
+  "Trade-TeamJoinCard": {
+    "you-have-team-members-request": "You have team members request",
+    "team-request": "Team Request",
+    "see-request": "See Request"
+  },
+  "Trade-TeamLeaderboard": {
+    "leaderboard": "Leaderboard",
+    "user": "User",
+    "team": "Team",
+    "rank": "Rank",
+    "wallet-address": "Wallet Address",
+    "trades": "Trades",
+    "winrate": "Winrate",
+    "team-name": "Team Name",
+    "search": "Search"
+  },
+  "Trade-TeamMembers": {
+    "team-members": "Team Members",
+    "invite-team": "Invite Team",
+    "you-dont-have-a-team-yet": "You don’t have a team yet",
+    "rank": "Rank",
+    "address": "Address",
+    "trades": "Trades",
+    "winrate": "Winrate",
+    "search": "Search"
+  },
+  "Trade-TeamStatus": {
+    "when": "When",
+    "time": "Time",
+    "active": "Active",
+    "status": "Status",
+    "round-ends-in": "Round Ends In"
+  },
+  "Trade-TeamSummary": {
+    "rank": "Rank",
+    "members": "Members",
+    "trades": "Trades",
+    "winrate": "Winrate",
+    "check-team": "Check Team",
+    "invite-team": "Invite Team",
+    "join-team": "Join Team",
+    "send-join-request": "Send Join Request",
+    "are-you-sure-to-join-this-team": "Are you sure to join this team?",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "Trade-TeamViewer": {
+    "teams": "Teams",
+    "search-for-team": "Search for team"
+  },
+  "Trade-TeamWinnerCard": {
+    "place": "Place",
+    "total-winnings": "Total Winnings"
+  },
+  "Trade-TeamWinners": {
+    "winners-team": "Winners Team"
+  },
+  "Trade-HistoriesPanel": {
+    "market": "MARKET",
+    "no-personal-trade-histories": "No personal trade histories",
+    "date": "Date",
+    "time": "Time",
+    "address": "Address",
+    "type": "Type",
+    "price": "Price",
+    "lev": "Lev",
+    "coll": "Coll",
+    "pair": "Pair",
+    "open-price": "Open Price",
+    "close-price": "Close Price",
+    "long": "LONG",
+    "short": "SHORT"
+  },
+  "Trade-OpenLimitOrderModal": {
+    "wrong-limit-price": "Wrong limit price",
+    "slippage-is-0": "Slippage is 0%",
+    "stop-less-is-too-big": "Stop less is too big",
+    "stop-less-greater-than-price": "Stop less > price",
+    "take-profit-less-than-price": "Take profit < price",
+    "take-profit-is-too-big": "Take profit is too big",
+    "leverage": "Leverage",
+    "collateral": "Collateral",
+    "position-size": "Position Size",
+    "trigger-price": "Trigger Price",
+    "execution-price": "Execution Price",
+    "max-spread": "Max Spread(%)",
+    "stop-loss": "Stop Loss",
+    "none": "None",
+    "take-profit": "Take Profit",
+    "take-profit-price": "Take Profit Price",
+    "opening-fee": "Opening Fee",
+    "long": "LONG",
+    "short": "SHORT",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "update": "Update",
+    "market": "MARKET",
+    "limit": "LIMIT",
+    "stop": "STOP"
+  },
+  "Trade-OrdersPanel": {
+    "type": "Type",
+    "pair": "Pair",
+    "size": "Size",
+    "lev": "Lev",
+    "coll": "Coll",
+    "trigger-price": "Trigger Price",
+    "executation-price": "Execution Price",
+    "max-spread": "Max Spread",
+    "close": "Close",
+    "market": "MARKET",
+    "limit": "LIMIT",
+    "stop": "STOP",
+    "none": "None",
+    "no-ordered-trades": "No ordered trades"
+  },
+  "Trade-SLTPUpdateModal": {
+    "current-price": "Current Price",
+    "liquidation-price": "Liquidation price",
+    "update-sl-tp": "UPDATE SL/TP",
+    "stop-loss": "Stop loss",
+    "update": "Update",
+    "take-profit": "Take profit"
+  },
+  "Trade-TradeControlBar": {
+    "all": "All",
+    "switch-to-team-stats": "Switch to team stats"
+  },
+  "Trade-TradeHistoryModal": {
+    "date": "Date",
+    "position-size": "Position Size",
+    "leverage": "Leverage",
+    "collateral": "Collateral",
+    "long": "LONG",
+    "short": "SHORT"
+  },
+  "Trade-TradePanel": {
+    "long": "LONG",
+    "short": "SHORT",
+    "no-opened-trades": "No opened trades",
+    "type": "Type",
+    "pair": "Pair",
+    "size": "Size",
+    "lev": "Lev",
+    "coll": "Coll",
+    "open-price": "Open Price",
+    "price": "Price",
+    "new-pnl": "New Pnl",
+    "close": "Close"
+  },
+  "Trade-WalletConnectStatus": {
+    "wallet-not-connected": "Wallet not connected"
+  },
+  "Trade-TradeHistoryPanel": {
+    "pair": "Pair",
+    "size": "Size",
+    "price": "Price",
+    "time": "Time"
+  },
+  "Trade-CollateralBalance": {
+    "balance": "Balance"
+  },
+  "Trade-CollateralPanel": {
+    "max": "Max"
+  },
+  "Trade-GetCollateralButton": {
+    "get-collateral": "Get Collateral",
+    "get": "Get"
+  },
+  "Trade-LeveragePanel": {
+    "leverage": "Leverage"
+  },
+  "Trade-OpenTradeModal": {
+    "collateral": "Collateral",
+    "leverage": "Leverage",
+    "position-size": "Position Size",
+    "est-open-price": "Est. Open Price",
+    "max-slippage": "Max Slippage",
+    "liq-price": "Liq. Price",
+    "stop-loss": "Stop Loss",
+    "take-profit": "Take Profit",
+    "fees": "Fees",
+    "confirm": "Confirm"
+  },
+  "Trade-SLTPPanel": {
+    "stop-lose-price": "Stop Loss Price",
+    "none": "None",
+    "unset": "Unset",
+    "stop-loss": "Stop Loss",
+    "take-profit": "Take Profit",
+    "take-profit-price": "Take Profit Price"
+  },
+  "Trade-TradeDetailPanel": {
+    "est-execution-price": "Est. Execution Price",
+    "est-excution-price-description": "The estimated price including spread at which your trade will execute. There will be no spread when closing the trade.",
+    "avg-spread": "Avg. Spread",
+    "slippage": "Slippage",
+    "take-profit-price": "Take Profit Price",
+    "slippage-description": "Your transaction will revert if the price changes unfavorably by more than this percentage.",
+    "notional-value": "Notional Value",
+    "collateral-leverage": "Collateral * Leverage",
+    "position-size": "Position size",
+    "fees": "Fees",
+    "learn-more": "Learn more",
+    "liq-price": "Liq. Price",
+    "liq-price-description": "If this price is reached, your postion will be closed and your collateral lost.",
+    "funding-rate": "Funding Rate"
+  },
+  "Trade-TradeSidebar": {
+    "invalid-format-of-collateral-amount": "Invalid format of collateral amount",
+    "balance-isnt-enough": "Balance isn't enough",
+    "invalid-amount-of-collateral": "Invalid amount of collateral",
+    "invalid-leverage": "Invalid leverage",
+    "wrong-limit-price": "Wrong limit price",
+    "stop-less-is-too-big": "Stop less is too big",
+    "stop-less-greater-than-price": "Stop less > price",
+    "take-profit-less-than-price": "Take profit < price",
+    "take-profit-is-too-big": "Take profit is too big",
+    "slippage-is-0": "Slippage is 0%",
+    "max-trades-reached": "Max trades reached",
+    "price": "Price",
+    "market": "Market",
+    "limit": "Limit",
+    "stop": "Stop",
+    "long": "Long",
+    "short": "Short",
+    "notional-value": "Notional value",
+    "above-pair-max-oi": "ABOVE PAIR MAX OI",
+    "above-group-max-oi": "ABOVE GROUP MAX OI",
+    "take-profit-is-unreachable": "Take profit is unreachable"
+  },
+  "Trade-PairInfoBar": {
+    "open-interest-l": "Open Interest (L)",
+    "open-interest-s": "Open Interest (S)"
+  },
+  "Trade-DashbardPage": {
+    "total-trades": "Total Trades",
+    "winrate": "Winrate",
+    "avg-profit": "Avg. Profit",
+    "avg-loss": "Avg. Loss",
+    "rewards-are-live": "Rewards are live",
+    "account-0": "Account"
+  },
+  "account": "Account",
+  "Trade-RewardPage": {
+    "rewards-are-live": "Rewards are live",
+    "remaining": "Remaining",
+    "how-it-works": "How it works",
+    "view-leaderboard": "View Leaderboard",
+    "your-rewards": "Your Rewards"
+  },
+  "View Leaderboard": {
+    "view-leaderboard": "View Leaderboard"
+  },
+  "Trade-TradePage": {
+    "chart": "Chart",
+    "histories": "Histories"
+  },
+  "Trade-EarnData": {
+    "deposit": "Deposit"
+  },
+  "Trade-RightNavbar": {
+    "points": "Points",
+    "learn-more": "Learn More",
+    "language": "Language"
+  },
+  "Trade-TeamLeaderboardwinrate": "Winrate",
+  "Trade-VaultDepositCard": {
+    "deposit": "Deposit",
+    "withdraw": "Withdraw",
+    "deposit-description": "Deposit {collateralType} in exchange for tz{collateralType}, an ERC-20 representing your ownership in the vault. Stakers receive fees from each trade placed on the platform in exchange for serving as the counterparty to all trades. tz{collateralType} accumulates these fees in real-time.",
+    "deposit-notify": "Please be aware, you can't immediately withdraw your assets. Withdraws follow an epoch system described on the Withdraw panel.",
+    "send": "Send",
+    "max": "Max",
+    "approve": "Approve",
+    "you-receive": "You receive",
+    "withdraw-description": "Withdraws follow an epoch system. Each epoch is 72 hours long. You can make a request to withdraw your assets during the first 48 hours of any epoch, but you must wait until a specific withdraw epoch to actually withdraw them. Depending on the collateralization ratio of the vault, your withdraw epoch will be between 1 and 3 epochs later. You must withdraw your assets in the first 48 hours of your withdraw epoch, otherwise a new request is required.",
+    "withdraw-request": "Withdraw Request",
+    "request": "Request",
+    "redeem": "Redeem"
+  },
+  "Trade-VaultMainCard": {
+    "collat-ratio": "Collat Ratio",
+    "price": "Price",
+    "supply": "Supply",
+    "vault": "Vault",
+    "epoch": "Epoch {value}",
+    "remaining": "Remaining",
+    "start": "Start: {date}",
+    "end": "End: {date}",
+    "description": "Liquidity pool incentives are live! Click here for active pools"
+  },
+  "Trade-VaultStatsCard": {
+    "available": "Available",
+    "locked": "Locked",
+    "total-value": "Total Value",
+    "est-earnings": "Est.Earnings",
+    "your-stats": "Your Stats"
+  },
+  "Trade-TradeControlPanel": {
+    "personal": "Personal",
+    "team": "Team",
+    "team-trades": "Team Trades",
+    "trades": "Trades",
+    "orders": "Orders",
+    "team-orders": "Team Orders",
+    "team-history": "Team History",
+    "history": "History"
+  },
+  "Trade-VaultLink": {
+    "deposit": "Deposit",
+    "price": "Price"
+  },
+  "Trade-VaultPage": {
+    "vaults": "Vaults"
+  },
+  "Trade-HistorySetting": {
+    "show-closes": "Show Closes",
+    "show-all-pairs": "Show All Pairs",
+    "usd-position-size": "USD Position Size",
+    "compact": "Compact"
+  },
+  "Trade-ShareTradeModal": {
+    "copy-image": "Copy Image",
+    "last-price": "Last Price",
+    "entry-price": "Entry Price",
+    "share-your-result": "Share your result"
+  },
+  "Trade-PortfolioPage": {
+    "history": "History"
+  },
+  "Trade-History": {
+    "team": "Team",
+    "user": "User",
+    "search": "Search",
+    "daily-volume": "Daily Volume",
+    "daily-trades": "Daily Trades"
+  },
+  "GeoBlockModal": {
+    "description": "Sorry! It looks like you're try to access Tizz from a restricted area!",
+    "restricted-area": "Restricted Area!",
+    "access-from-restricted-area": "Access from restricted area!"
+  },
+  "Trade-Stats": {
+    "all-time-volume": "All-Time Volume",
+    "daily-volume": "Daily Volume",
+    "daily-trades": "Daily Trades"
+  }
+}

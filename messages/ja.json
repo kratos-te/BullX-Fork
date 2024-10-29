@@ -1,0 +1,474 @@
+{
+  "Tizz-TopNavbar": {
+    "launch-app": "アプリを起動する"
+  },
+  "Tizz-HeroNavbar": {
+    "new": "新しい",
+    "join-our-testnet-faucet": "テストネットフォーセットに参加してください!"
+  },
+  "Tizz-HeroContent": {
+    "rewards": "報酬",
+    "security": "安全",
+    "freedom": "自由",
+    "community": "コミュニティ",
+    "winners-deserve": "勝者にふさわしい",
+    "better": "より良い",
+    "heroAd": "ビットコインを活用した永久取引の新しいスタンダードを体験してください。そこでは、取引の専門知識が評価され、報われます。 Tizz を使えば、勝者になることができます。",
+    "launch-app": "アプリを起動する",
+    "learn-more": "もっと詳しく知る"
+  },
+  "Tizz-Footer": {
+    "rights": "© 2024 ティズ. 無断転載を禁じます。",
+    "privacy-policy": "プライバシーポリシー",
+    "terms-of-service": "利用規約",
+    "cookies-settings": "クッキーの設定"
+  },
+  "Tizz-Content": {
+    "backed-by": "支援者",
+    "built-on-bitcoin": {
+      "title": "ビットコインに基づいて構築",
+      "subTitle1": "分散化された未来のためのトラストレス取引",
+      "description1": "Tizz では、トラストレス取引は単なる概念ではありません。 それは私たちのプラットフォームの基礎です。 ビットコインの分散モデルに触発され、ユーザーが仲介者を必要とせずに資産を直接交換できる取引環境を構築しました。 トラストレス取引では、すべての取引は透明性、安全性が高く、正確に実行され、ビットコインの精神を反映しています。",
+      "subTitle2": "ビットコインの可能性を最大限に引き出す",
+      "description2": "Tizz のビットコイン ネットワークの比類のない流動性を活用し、豊富な流動性プールによりスムーズかつ迅速な取引の実行が保証されます。 私たちのプラットフォームは、ビットコインの世界的な広がりを活用するように設計されており、初心者からベテランまで、あらゆるトレーダーに、DeFi内で比類のない取引機会を得るために必要なツールを提供します。",
+      "subTitle3": "スパイダーチェーンでセキュリティを強化する",
+      "description3": "このレベルのアクセシビリティと分散化を実現するために、Tizz は Botanix L-2 テクノロジーに基づいて構築されています。 このレイヤー 2 ソリューションは、Tizz のエコシステムを強化する基本要素である Supra oracles と統合された Spiderchain の堅牢性を活用するセキュリティと分散化を維持しながら、スケーラビリティと効率を強化します。 このブレンドにより、Tizz 上のすべてのトランザクションが厳格なセキュリティ基準を遵守するだけでなく、データの信頼性と正確性が向上するというメリットも得られます。 これは安全で相互接続された環境であり、トラストレス取引が単なる約束ではなく、現実になります。ビットコインのネットワークを定義します。 Botanix L-2 を使用すると、Tizz ユーザーは、世界的な分散型経済の成長に貢献しながら、超高速の取引とシームレスな取引体験を楽しむことができます。"
+    },
+    "satistics": {
+      "title": "ビットコインの経済力を活用する",
+      "description": "毎日の数十億の取引は、ビットコインの巨大な市場規模を明らかにし、その成長の可能性を示唆しています。 これほど活発な市場活動がある中で、ビットコインの価格変動に直接さらされない場所でなぜ取引する必要があるのでしょうか?",
+      "volumn-transferred-24h": "24時間転送されたボリューム",
+      "fees-generated": "発生する手数料",
+      "open-perps-intrest": "パープスの関心を開く"
+    },
+    "compete-and-conquer": "競争して征服する",
+    "compete-and-conquer-description": "ティズの競争の激しい取引アリーナに飛び込みましょう。単独で競争するか、集団で力を合わせて、スリリングな取引競争に参加し、ランクを上げてください。",
+    "features-designed-to-forge-winners": "勝者を鍛えるために設計された機能",
+    "tizz-trading-hives": "ティズ・トレーディング・ハイブズ",
+    "features": {
+      "title": "勝者を鍛えるために設計された機能",
+      "card1": {
+        "title": "ティズ・トレーディング・ハイブズ",
+        "description": "Tizz Trading Hives で志を同じくするトレーダーと力を合わせて戦略を立て、市場を支配しましょう。 これらの巣箱は競争の精神を育み、チームワークが成功を増幅させ、それぞれの勝利が祝われ、集団で報われます。 共有された洞察と戦略を活用して、競合他社に勝つためにトレーディング ゲームを向上させます。"
+      },
+      "card2": {
+        "title": "プライベート",
+        "description": "当社はユーザーのプライバシーを優先します。 当社のプラットフォームは顧客確認 (KYC) 検証を必要とせずに動作し、個人情報の機密性が確保されます。 当社はデータ収集やIPアドレスの記録を行っていないため、安心して取引を行うことができます。"
+      },
+      "card3": {
+        "title": "リーダーボード",
+        "description": "Tizz のリーダーボードでランクを上げ、トレードするたびにトップに近づきます。 あなたの取引能力を披露し、エリートから洞察を引き出し、最高の企業にあなたの名前を刻みましょう。 それは取引だけではありません。 それは競争を制覇し、勝利を祝うことです。"
+      },
+      "card4": {
+        "title": "Tizz での取引報酬を最大限に活用しましょう",
+        "description": "利益だけではないものを集めましょう。 トークンのエアドロップ、花粉ポイント、限定の景品など、豊富な特典を獲得しましょう。 当社の利益分配モデルでは、取引を行うたびに利益報酬の取り分が追加されます。 なぜなら、Tizz では、勝者には真の価値があるからです。"
+      }
+    },
+    "launch-app": "アプリを起動する",
+    "how-you-earn": {
+      "title": "稼ぎ方",
+      "card1": {
+        "title": "社会性",
+        "description": "ソーシャルメディアでティズの話題を作ってネクターを獲得しましょう。 すべての共有、いいね、コメントによってアカウントが充実し、エンゲージメントが目に見える報酬に変わります。"
+      },
+      "card2": {
+        "title": "個人トレーダー",
+        "description": "Tizz でトレードしてトップを目指しましょう: あなたのトレード スキルによって花粉が得られ、すべてのトレードが単なる利益以上のものになります。 戦略を模索し、報酬を強化しながら評判を築きましょう。"
+      },
+      "card3": {
+        "title": "蕁麻疹",
+        "description": "トレーダーと協力してハイブの強みを活用してください。 独占的なコンテストで競い合い、利益を分け合い、巣の花粉報酬を増やして、すべてのメンバーの成功に貢献します。"
+      },
+      "description": "紹介やソーシャルエンゲージメントを通じてネクターを獲得し、トレードで勝利を収めると花粉を獲得して、潜在的な収益を高めます。"
+    },
+    "be-the-first-to-know": {
+      "title": "最初に知ってください",
+      "description": "ここでは、卓越性が認められるだけでなく、報酬も提供され、勝者が常に優位性を確保できるようになります。",
+      "exclusive-access": "独占アクセス: 一般公開に先駆けて、Tizz の全機能を探索してください。",
+      "priority-support": "優先サポート: 当社の専門家チームから即座にサポートを受け、初日からスムーズな取引体験を保証します。",
+      "placeholder": "メールアドレスを入力",
+      "sign-up": "サインアップ"
+    },
+    "join-the-tizz-community": {
+      "title": "ティズコミュニティに参加してください",
+      "card1": {
+        "title": "コロニーの一員になる",
+        "description": "常に最新情報を入手し、Tizz コミュニティに参加してください。 プロジェクトの最新情報や発表を入手しながら、他の愛好家とトレンドや戦略について話し合うことができます。"
+      },
+      "card2": {
+        "title": "コミュニティフォーラム",
+        "description": "コミュニティ フォーラムでさらに深いディスカッションを行ってください。 取引に関する洞察を共有し、質問し、ハイブや他のトレーダーと協力して戦略を磨きましょう。"
+      },
+      "card3": {
+        "title": "リソースとドキュメント",
+        "description": "詳細な Gitbook を参照して、Tizz のプラットフォームについて詳しく調べてください。 これは、当社の特徴、取引の仕組み、当社の運営を支えるテクノロジーを理解するための頼りになるリソースです。"
+      }
+    }
+  },
+  "Trade-DepositCard": {
+    "deposit": "デポジット",
+    "withdraw": "撤回する",
+    "description1": "gDAI と引き換えに、金庫内の所有権を表す ERC-20 である DAI をデポジットします。 ステーカーは、すべての取引のカウンターパーティとして機能する代わりに、プラットフォーム上の各取引から手数料を受け取ります。 gDAI はこれらの料金をリアルタイムで蓄積します。",
+    "description2": "資産をすぐに引き出すことはできないことに注意してください。 引き出しは、引き出しパネルに記載されているエポック システムに従います。",
+    "send": "送信",
+    "max": "マックス",
+    "approve": "承認する"
+  },
+  "Trade-StatsCard": {
+    "available": "利用可能",
+    "locked": "ロックされています",
+    "total-value": "総価値",
+    "est-earnings": "推定収益",
+    "your-stats": "あなたの統計"
+  },
+  "Trade-VaultCard": {
+    "collat-ratio": "丁合率",
+    "price": "価格",
+    "supply": "供給",
+    "vault": "保管庫",
+    "epoch": "時代",
+    "remaining": "残り",
+    "start": "始める",
+    "end": "終わり",
+    "description": "流動性プールのインセンティブは有効です! アクティブなプールについてはここをクリックしてください"
+  },
+  "Trade-Footer": {
+    "operational": "稼働中",
+    "help-and-support": "ヘルプサポート",
+    "fast": "速い"
+  },
+  "Trade-TopNavbar": {
+    "trade": "貿易",
+    "portfolio": "ポートフォリオ",
+    "vault": "保管庫",
+    "team": "チーム",
+    "more": "もっと"
+  },
+  "Trade-PortfolioAccountPanel": {
+    "your-trades": "あなたの取引",
+    "team-trades": "チームトレード",
+    "winrate": "勝率",
+    "team-winrate": "チーム勝率",
+    "avg-profit": "平均利益",
+    "team-avg-profit": "チームの平均利益",
+    "avg-loss": "平均損失",
+    "team-avg-loss": "チームの平均損失",
+    "account": "アカウント"
+  },
+  "Trade-PortfolioHistoryPanel": {
+    "pairs": "ペア",
+    "groups": "グループ",
+    "type": "タイプ",
+    "time": "時間",
+    "pair": "ペア",
+    "address": "住所",
+    "price": "価格",
+    "lev": "レブ",
+    "coll": "コル",
+    "history": "歴史"
+  },
+  "Trade-PortfolioPNLPanel": {
+    "all": "全て"
+  },
+  "Trade-PortfolioStatePanel": {
+    "vault": "保管庫",
+    "referrals": "紹介",
+    "rewards": "報酬",
+    "learn-more": "もっと詳しく知る",
+    "user": "ユーザー",
+    "users": "ユーザー"
+  },
+  "Trade-PortfolioTabBar": {
+    "dashboard": "ダッシュボード",
+    "history": "歴史",
+    "rewards": "報酬"
+  },
+  "Trade-RewardWalletConnectButton": {
+    "connect-wallet": "ウォレットを接続する",
+    "wrong-network": "間違ったネットワーク",
+    "claim-all": "すべてを請求する"
+  },
+  "Trade-SmallWalletConnectButton": {
+    "wrong-network": "間違ったネットワーク",
+    "connect-wallet": "ウォレットを接続する"
+  },
+  "Trade-TradeOpenButton": {
+    "connect-wallet": "ウォレットを接続する",
+    "wallet-not-connected": "ウォレットが接続されていません",
+    "wrong-network": "間違ったネットワーク",
+    "approve": "承認する"
+  },
+  "Trade-WallectConnectButton": {
+    "connect-wallet": "ウォレットを接続する",
+    "wrong-network": "間違ったネットワーク"
+  },
+  "Trade-CloseTradeModal": {
+    "collateral": "担保",
+    "leverage": "てこの作用",
+    "position-size": "ポジションサイズ",
+    "open-price": "オープン価格",
+    "current-price": "現在の価格",
+    "price-change": "価格変更",
+    "closing-fees": "成約手数料",
+    "unrealized-pnl": "未実現損益",
+    "receive": "受け取る",
+    "long": "長さ",
+    "short": "短い",
+    "confirm": "確認する"
+  },
+  "Trade-CongratulationModal": {
+    "congratulations": "おめでとう",
+    "go-to-team-profile": "チームプロフィールに移動"
+  },
+  "Trade-TeamCreationModal": {
+    "create-team": "チームの作成",
+    "upload-image": "画像をアップロードする",
+    "cancel": "キャンセル"
+  },
+  "Trade-TeamCreationSuccessModal": {
+    "succcess": "成功！",
+    "go-to-team-profile": "チームプロフィールに移動"
+  },
+  "Trade-TeamInvitationCreationModal": {
+    "invite-team": "チームを招待する",
+    "wallet-address": "ウォレットアドレス",
+    "cancel": "キャンセル"
+  },
+  "Trade-TeamJoinRequestModal": {
+    "name": "名前",
+    "actions": "行動",
+    "wallet-address": "ウォレットアドレス",
+    "date": "日付",
+    "time": "時間",
+    "user": "ユーザー",
+    "approve": "承認する",
+    "deny": "拒否",
+    "approve-all": "全て承認する"
+  },
+  "Trade-TeamCard": {
+    "members": "メンバー"
+  },
+  "Trade-TeamCreation": {
+    "create-your-hive": "自分の巣箱を作成する",
+    "description": "究極の巣箱の構築を始めましょう。 ソーシャルトレードで協力したり、一番になるために競い合ったりしましょう。 一緒に花粉を獲得し、勝者として報酬を受け取りましょう。",
+    "create-your-team": "チームを作成する"
+  },
+  "Trade-TeamInvitation": {
+    "view-all": "すべて見る"
+  },
+  "Trade-TeamInvitationCard": {
+    "you-have-been-invited": "招待されましたよ！",
+    "accept": "受け入れる",
+    "deny": "拒否"
+  },
+  "Trade-TeamJoinCard": {
+    "you-have-team-members-request": "チームメンバーからのリクエストがあります",
+    "team-request": "チームリクエスト",
+    "see-request": "リクエストを参照"
+  },
+  "Trade-TeamLeaderboard": {
+    "leaderboard": "リーダーボード"
+  },
+  "Trade-TeamMembers": {
+    "team-members": "チームメンバー",
+    "invite-team": "チームを招待する",
+    "you-dont-have-a-team-yet": "まだチームがありません"
+  },
+  "Trade-TeamStatus": {
+    "when": "いつ",
+    "time": "時間",
+    "active": "アクティブ",
+    "status": "状態",
+    "round-ends-in": "ラウンド終了日"
+  },
+  "Trade-TeamSummary": {
+    "rank": "ランク",
+    "members": "メンバー",
+    "trades": "取引",
+    "winrate": "勝率",
+    "check-team": "チェックチーム",
+    "invite-team": "チームを招待する",
+    "join-team": "チームに入ります",
+    "send-join-request": "参加リクエストの送信",
+    "are-you-sure-to-join-this-team": "このチームに参加してもよろしいですか?",
+    "yes": "はい",
+    "no": "いいえ"
+  },
+  "Trade-TeamViewer": {
+    "teams": "チーム",
+    "search-for-team": "チームを検索"
+  },
+  "Trade-TeamWinnerCard": {
+    "place": "場所",
+    "total-winnings": "合計賞金"
+  },
+  "Trade-TeamWinners": {
+    "winners-team": "勝者チーム"
+  },
+  "Trade-HistoriesPanel": {
+    "market": "市場",
+    "no-personal-trade-histories": "個人的な取引履歴はありません",
+    "date": "日付",
+    "time": "時間",
+    "address": "住所",
+    "type": "タイプ",
+    "price": "価格",
+    "lev": "レブ",
+    "coll": "コル"
+  },
+  "Trade-OpenLimitOrderModal": {
+    "wrong-limit-price": "間違った指値価格",
+    "slippage-is-0": "スリッページは0%です",
+    "stop-less-is-too-big": "ストップレスは大きすぎます",
+    "stop-less-greater-than-price": "ストップレス > 価格",
+    "take-profit-less-than-price": "テイクプロフィット < 価格",
+    "take-profit-is-too-big": "テイクプロフィットが大きすぎる",
+    "leverage": "てこの作用",
+    "collateral": "担保",
+    "position-size": "ポジションサイズ",
+    "trigger-price": "トリガー価格",
+    "execution-price": "約定価格",
+    "max-spread": "最大スプレッド(%)",
+    "stop-loss": "ストップロス",
+    "none": "なし",
+    "take-profit": "利食い",
+    "take-profit-price": "利食い価格",
+    "opening-fee": "出店料",
+    "long": "長さ",
+    "short": "短い",
+    "confirm": "確認する",
+    "cancel": "キャンセル",
+    "submit": "提出する",
+    "update": "アップデート"
+  },
+  "Trade-OrdersPanel": {
+    "type": "タイプ",
+    "pair": "ペア",
+    "size": "サイズ",
+    "lev": "レブ",
+    "coll": "コル",
+    "trigger-price": "トリガー価格",
+    "executation-price": "約定価格",
+    "max-spread": "最大スプレッド",
+    "close": "近い",
+    "market": "市場",
+    "limit": "リミット",
+    "stop": "停止",
+    "none": "なし",
+    "no-ordered-trades": "注文された取引はありません"
+  },
+  "Trade-SLTPUpdateModal": {
+    "current-price": "現在の価格",
+    "liquidation-price": "清算価格",
+    "update-sl-tp": "SL/TPの更新",
+    "stop-loss": "ストップロス",
+    "update": "アップデート",
+    "take-profit": "利益確定"
+  },
+  "Trade-TradeControlBar": {
+    "all": "全て"
+  },
+  "Trade-TradeHistoryModal": {
+    "date": "日付",
+    "position-size": "ポジションサイズ",
+    "leverage": "てこの作用",
+    "collateral": "担保"
+  },
+  "Trade-TradePanel": {
+    "long": "長さ",
+    "short": "短い",
+    "no-opened-trades": "開かれた取引はありません"
+  },
+  "Trade-WalletConnectStatus": {
+    "wallet-not-connected": "ウォレットが接続されていません"
+  },
+  "Trade-TradeHistoryPanel": {
+    "pair": "ペア",
+    "size": "サイズ ($)",
+    "price": "価格"
+  },
+  "Trade-CollateralBalance": {
+    "balance": "バランス"
+  },
+  "Trade-CollateralPanel": {
+    "max": "マックス"
+  },
+  "Trade-GetCollateralButton": {
+    "get-collateral": "担保を取得する",
+    "get": "得る"
+  },
+  "Trade-LeveragePanel": {
+    "leverage": "てこの作用"
+  },
+  "Trade-OpenTradeModal": {
+    "collateral": "担保",
+    "leverage": "てこの作用",
+    "position-size": "ポジションサイズ",
+    "est-open-price": "EST（東部基準時。 オープン価格",
+    "max-slippage": "最大滑り",
+    "liq-price": "リク。 価格",
+    "stop-loss": "ストップロス",
+    "take-profit": "利食い",
+    "fees": "料金"
+  },
+  "Trade-SLTPPanel": {
+    "stop-lose-price": "ストップロス価格",
+    "none": "なし"
+  },
+  "Trade-TradeDetailPanel": {
+    "est-execution-price": "EST（東部基準時。 約定価格",
+    "est-excution-price-description": "取引が実行されるスプレッドを含む推定価格。 取引を終了する際にはスプレッドはありません。",
+    "avg-spread": "平均 広める",
+    "slippage": "滑り",
+    "take-profit-price": "利食い価格",
+    "slippage-description": "価格がこのパーセンテージを超えて不利に変化した場合、トランザクションは元に戻ります。",
+    "notional-value": "想定元本価値",
+    "collateral-leverage": "担保 * レバレッジ",
+    "position-size": "ポジションサイズ",
+    "fees": "料金",
+    "learn-more": "もっと詳しく知る",
+    "liq-price": "リク。 価格",
+    "liq-price-description": "この価格に達すると、ポジションはクローズされ、担保は失われます。"
+  },
+  "Trade-TradeSidebar": {
+    "invalid-format-of-collateral-amount": "担保金額の形式が無効です",
+    "balance-isnt-enough": "バランスが足りない",
+    "invalid-amount-of-collateral": "担保金額が無効です",
+    "invalid-leverage": "無効なレバレッジ",
+    "wrong-limit-price": "間違った指値価格",
+    "stop-less-is-too-big": "ストップレスは大きすぎます",
+    "stop-less-greater-than-price": "ストップレス > 価格",
+    "take-profit-less-than-price": "テイクプロフィット < 価格",
+    "take-profit-is-too-big": "テイクプロフィットが大きすぎる",
+    "slippage-is-0": "スリッページは0%です",
+    "max-trades-reached": "最大取引数に達しました",
+    "price": "価格"
+  },
+  "Trade-PairInfoBar": {
+    "open-interest-l": "建玉(L)",
+    "open-interest-s": "建玉(S)"
+  },
+  "Trade-DashbardPage": {
+    "total-trades": "総取引数",
+    "winrate": "勝率",
+    "avg-profit": "平均 利益",
+    "avg-loss": "平均 損失",
+    "rewards-are-live": "報酬はライブです",
+    "account-0": "アカウント"
+  },
+  "account": "アカウント",
+  "Trade-RewardPage": {
+    "rewards-are-live": "報酬はライブです",
+    "remaining": "残り",
+    "how-it-works": "使い方",
+    "view-leaderboard": "リーダーボードを見る",
+    "your-rewards": "あなたの報酬"
+  },
+  "View Leaderboard": {
+    "view-leaderboard": "リーダーボードを見る"
+  },
+  "Trade-TradePage": {
+    "chart": "チャート",
+    "histories": "歴史"
+  }
+}

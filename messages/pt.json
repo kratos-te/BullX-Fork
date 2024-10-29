@@ -1,0 +1,474 @@
+{
+  "Tizz-TopNavbar": {
+    "launch-app": "Lançamento do Aplicativo"
+  },
+  "Tizz-HeroNavbar": {
+    "new": "Novo",
+    "join-our-testnet-faucet": "Junte-se ao nosso Torneira Testnet!"
+  },
+  "Tizz-HeroContent": {
+    "rewards": "Recompensas",
+    "security": "Segurança",
+    "freedom": "Liberdade",
+    "community": "Comunidade",
+    "winners-deserve": "Os vencedores merecem",
+    "better": "Melhorar",
+    "heroAd": "Experimente um novo padrão em negociação perpétua, impulsionado pelo Bitcoin, onde sua experiência em negociação é valorizada e recompensada. Com o Tizz, vale a pena ser um vencedor.",
+    "launch-app": "Lançamento do Aplicativo",
+    "learn-more": "Saber mais"
+  },
+  "Tizz-Footer": {
+    "rights": "© 2024 Tizz. Todos os direitos reservados.",
+    "privacy-policy": "política de Privacidade",
+    "terms-of-service": "Termos de serviço",
+    "cookies-settings": "Configurações de cookies"
+  },
+  "Tizz-Content": {
+    "backed-by": "Apoiado por",
+    "built-on-bitcoin": {
+      "title": "Construído em Bitcoin",
+      "subTitle1": "Negociação sem confiança para um futuro descentralizado",
+      "description1": "Na Tizz, a negociação sem confiança não é apenas um conceito; é a pedra angular da nossa plataforma. Inspirados no modelo descentralizado do Bitcoin, criamos um ambiente de negociação onde os usuários podem trocar ativos diretamente, sem a necessidade de intermediários. Com a negociação sem confiança, cada transação é transparente, segura e executada com precisão, refletindo o espírito do Bitcoin.",
+      "subTitle2": "Maximizando o potencial do Bitcoin",
+      "description2": "Aproveite a liquidez incomparável da rede Bitcoin no Tizz, onde pools de liquidez profunda garantem a execução rápida e suave das negociações. Nossa plataforma foi projetada para aproveitar o vasto alcance global do Bitcoin, fornecendo a todos os traders – do novato ao experiente – as ferramentas necessárias para oportunidades de negociação incomparáveis dentro do DeFi.",
+      "subTitle3": "Capacitando a segurança com Spiderchain",
+      "description3": "Para atingir este nível de acessibilidade e descentralização, o Tizz é baseado na tecnologia Botanix L-2. Esta solução de camada 2 aumenta a escalabilidade e a eficiência, ao mesmo tempo que mantém a segurança e a descentralização que dAproveitando a robustez do Spiderchain integrado aos oráculos Supra, elementos fundamentais que aprimoram o ecossistema da Tizz. Essa combinação garante que todas as transações no Tizz não apenas cumpram padrões de segurança rigorosos, mas também se beneficiem de maior confiabilidade e precisão dos dados. É um ambiente seguro e interconectado onde a negociação sem confiança não é apenas uma promessa – é a realidade.efine a rede do Bitcoin. Com o Botanix L-2, os usuários do Tizz podem desfrutar de transações extremamente rápidas e uma experiência de negociação perfeita, ao mesmo tempo que contribuem para o crescimento da economia descentralizada global."
+    },
+    "satistics": {
+      "title": "Aproveite o poder econômico do Bitcoin",
+      "description": "Bilhões em transações diárias revelam a enorme escala de mercado do Bitcoin e sugerem seu potencial crescente. Com uma atividade de mercado tão vibrante, por que negociar em qualquer lugar que não permita que você fique diretamente exposto aos movimentos de preços do Bitcoin?",
+      "volumn-transferred-24h": "Volume Transferido 24h",
+      "fees-generated": "Taxas geradas",
+      "open-perps-intrest": "Interesse de criminosos abertos"
+    },
+    "compete-and-conquer": "Competir e conquistar",
+    "compete-and-conquer-description": "Mergulhe na competitiva arena comercial de Tizz: compita sozinho ou junte forças em uma colmeia, participe de competições comerciais emocionantes e suba na hierarquia.",
+    "features-designed-to-forge-winners": "Recursos projetados para formar vencedores",
+    "tizz-trading-hives": "Colmeias de Negociação Tizz",
+    "features": {
+      "title": "Recursos projetados para formar vencedores",
+      "card1": {
+        "title": "Colmeias de Negociação Tizz",
+        "description": "Junte forças com traders que pensam como você no Tizz Trading Hives para traçar estratégias e dominar os mercados. Estas colmeias promovem um espírito de competição onde o trabalho em equipa amplifica o sucesso, com cada vitória celebrada e recompensada coletivamente. Eleve seu jogo de negociação aproveitando insights e estratégias compartilhadas para superar a concorrência."
+      },
+      "card2": {
+        "title": "Privado",
+        "description": "Priorizamos a privacidade do usuário. Nossa plataforma opera sem a necessidade de verificação Know Your Customer (KYC), garantindo que suas informações pessoais permaneçam confidenciais. Não coletamos dados nem registramos endereços IP, proporcionando tranquilidade enquanto você negocia."
+      },
+      "card3": {
+        "title": "Entre os melhores",
+        "description": "Suba na classificação nas tabelas de classificação do Tizz, onde cada negociação leva você para mais perto do topo. Mostre suas proezas comerciais, obtenha insights da elite e grave seu nome entre os melhores. Não se trata apenas de negociação; trata-se de dominar a competição e comemorar suas vitórias."
+      },
+      "card4": {
+        "title": "Maximize suas recompensas comerciais no Tizz",
+        "description": "Colete mais do que apenas lucros. Obtenha uma grande variedade de vantagens, incluindo lançamentos aéreos simbólicos, pontos de pólen e brindes exclusivos. Com o nosso modelo de participação nos lucros, cada negociação que você faz aumenta a sua parte na recompensa do lucro. Porque na Tizz, os vencedores realmente merecem o melhor."
+      }
+    },
+    "launch-app": "Lançamento do Aplicativo",
+    "how-you-earn": {
+      "title": "Como você ganha",
+      "card1": {
+        "title": "Socialidades",
+        "description": "Ganhe Néctar criando buzz sobre Tizz nas redes sociais. Cada compartilhamento, curtida e comentário enriquece sua conta, transformando seu envolvimento em recompensas tangíveis."
+      },
+      "card2": {
+        "title": "Comerciantes Individuais",
+        "description": "Negocie até chegar ao topo no Tizz: sua habilidade de negociação lhe rende Pólen, transformando cada negociação em mais do que apenas lucro. Explore estratégias e construa sua reputação enquanto aumenta suas recompensas."
+      },
+      "card3": {
+        "title": "Urticária",
+        "description": "Colabore com comerciantes para alavancar a força da sua colmeia. Participe de competições exclusivas, compartilhe os lucros e aumente as recompensas de Pólen da sua colméia, beneficiando o sucesso de cada membro."
+      },
+      "description": "Ganhe Néctar por meio de referências e engajamento social, e Pólen por vitórias comerciais, aumentando seus retornos potenciais."
+    },
+    "be-the-first-to-know": {
+      "title": "Seja o primeiro a saber",
+      "description": "Aqui, a excelência não é apenas reconhecida – é compensada, garantindo que os vencedores sempre encontrem sua vantagem.",
+      "exclusive-access": "Acesso exclusivo: dê um passo à frente do lançamento público e explore todos os recursos do Tizz.",
+      "priority-support": "Suporte Prioritário: Receba assistência imediata de nossa equipe de especialistas, garantindo uma experiência de negociação tranquila desde o primeiro dia.",
+      "placeholder": "Digite seu e-mail",
+      "sign-up": "Inscrever-se"
+    },
+    "join-the-tizz-community": {
+      "title": "Junte-se à comunidade Tizz",
+      "card1": {
+        "title": "Torne-se parte da colônia",
+        "description": "Mantenha-se informado e envolvido com a comunidade Tizz. Acompanhe as atualizações e anúncios do projeto enquanto interage com outros entusiastas para discutir tendências e estratégias."
+      },
+      "card2": {
+        "title": "Fóruns da comunidade",
+        "description": "Mergulhe em discussões mais profundas em nossos fóruns da comunidade. Compartilhe seus insights de negociação, faça perguntas e colabore com sua colméia e outros traders para refinar suas estratégias."
+      },
+      "card3": {
+        "title": "Recursos e documentação",
+        "description": "Mergulhe em nosso Gitbook detalhado para obter informações sobre a plataforma Tizz. É o seu recurso ideal para compreender nossos recursos, a mecânica de negociação e a tecnologia por trás de nossas operações."
+      }
+    }
+  },
+  "Trade-DepositCard": {
+    "deposit": "Depósito",
+    "withdraw": "Retirar",
+    "description1": "Deposite DAI em troca de gDAI, um ERC-20 que representa sua propriedade no cofre. Os Stakers recebem taxas de cada negociação realizada na plataforma em troca de servirem como contraparte em todas as negociações. O gDAI acumula essas taxas em tempo real.",
+    "description2": "Esteja ciente de que você não pode retirar seus ativos imediatamente. As retiradas seguem um sistema de época descrito no painel de retiradas.",
+    "send": "Enviar",
+    "max": "Máx.",
+    "approve": "Aprovar"
+  },
+  "Trade-StatsCard": {
+    "available": "Disponível",
+    "locked": "Bloqueado",
+    "total-value": "Valor total",
+    "est-earnings": "Lucro estimado",
+    "your-stats": "Suas estatísticas"
+  },
+  "Trade-VaultCard": {
+    "collat-ratio": "Proporção de colação",
+    "price": "Preço",
+    "supply": "Fornecer",
+    "vault": "Cofre",
+    "epoch": "Época",
+    "remaining": "Restante",
+    "start": "Começar",
+    "end": "Fim",
+    "description": "Os incentivos do pool de liquidez estão ativos! Clique aqui para pools ativos"
+  },
+  "Trade-Footer": {
+    "operational": "Operacional",
+    "help-and-support": "Ajuda e suporte",
+    "fast": "Rápido"
+  },
+  "Trade-TopNavbar": {
+    "trade": "Troca",
+    "portfolio": "Portfólio",
+    "vault": "Cofre",
+    "team": "Equipe",
+    "more": "Mais"
+  },
+  "Trade-PortfolioAccountPanel": {
+    "your-trades": "Suas negociações",
+    "team-trades": "Trocas de equipe",
+    "winrate": "Taxa de vitória",
+    "team-winrate": "Taxa de vitória da equipe",
+    "avg-profit": "Lucro médio",
+    "team-avg-profit": "Lucro médio da equipe",
+    "avg-loss": "Perda média",
+    "team-avg-loss": "Média de perdas da equipe",
+    "account": "Conta"
+  },
+  "Trade-PortfolioHistoryPanel": {
+    "pairs": "Pares",
+    "groups": "Grupos",
+    "type": "Tipo",
+    "time": "Tempo",
+    "pair": "Par",
+    "address": "Endereço",
+    "price": "Preço",
+    "lev": "Leão",
+    "coll": "Cole",
+    "history": "História"
+  },
+  "Trade-PortfolioPNLPanel": {
+    "all": "TODOS"
+  },
+  "Trade-PortfolioStatePanel": {
+    "vault": "Cofre",
+    "referrals": "Referências",
+    "rewards": "Recompensas",
+    "learn-more": "Saber mais",
+    "user": "Do utilizador",
+    "users": "Usuários"
+  },
+  "Trade-PortfolioTabBar": {
+    "dashboard": "Painel",
+    "history": "História",
+    "rewards": "Recompensas"
+  },
+  "Trade-RewardWalletConnectButton": {
+    "connect-wallet": "Conectar carteira",
+    "wrong-network": "Rede errada",
+    "claim-all": "Reivindique tudo"
+  },
+  "Trade-SmallWalletConnectButton": {
+    "wrong-network": "Rede errada",
+    "connect-wallet": "Conectar carteira"
+  },
+  "Trade-TradeOpenButton": {
+    "connect-wallet": "Conectar carteira",
+    "wallet-not-connected": "Carteira não conectada",
+    "wrong-network": "Rede errada",
+    "approve": "Aprovar"
+  },
+  "Trade-WallectConnectButton": {
+    "connect-wallet": "Conectar carteira",
+    "wrong-network": "Rede errada"
+  },
+  "Trade-CloseTradeModal": {
+    "collateral": "Garantia",
+    "leverage": "Aproveitar",
+    "position-size": "Tamanho da posição",
+    "open-price": "Preço aberto",
+    "current-price": "Preço atual",
+    "price-change": "Mudança de preço",
+    "closing-fees": "Taxas de fechamento",
+    "unrealized-pnl": "PnL não realizado",
+    "receive": "Receber",
+    "long": "LONGO",
+    "short": "CURTO",
+    "confirm": "confirme"
+  },
+  "Trade-CongratulationModal": {
+    "congratulations": "Parabéns",
+    "go-to-team-profile": "Vá para o perfil da equipe"
+  },
+  "Trade-TeamCreationModal": {
+    "create-team": "Criar equipe",
+    "upload-image": "Enviar Imagem",
+    "cancel": "Cancelar"
+  },
+  "Trade-TeamCreationSuccessModal": {
+    "succcess": "Sucesso!",
+    "go-to-team-profile": "Vá para o perfil da equipe"
+  },
+  "Trade-TeamInvitationCreationModal": {
+    "invite-team": "Convidar equipe",
+    "wallet-address": "Endereço da carteira",
+    "cancel": "Cancelar"
+  },
+  "Trade-TeamJoinRequestModal": {
+    "name": "Nome",
+    "actions": "Ações",
+    "wallet-address": "Endereço da carteira",
+    "date": "Data",
+    "time": "Tempo",
+    "user": "Do utilizador",
+    "approve": "Aprovar",
+    "deny": "Negar",
+    "approve-all": "Aprovar tudo"
+  },
+  "Trade-TeamCard": {
+    "members": "Membros"
+  },
+  "Trade-TeamCreation": {
+    "create-your-hive": "Crie sua colmeia",
+    "description": "Comece a construir a colmeia definitiva. Colabore no comércio social ou concorra para ser o melhor. Juntos, ganhem Pólen e sejam recompensados como vencedores.",
+    "create-your-team": "Crie sua equipe"
+  },
+  "Trade-TeamInvitation": {
+    "view-all": "Ver tudo"
+  },
+  "Trade-TeamInvitationCard": {
+    "you-have-been-invited": "Você foi convidado!",
+    "accept": "Aceitar",
+    "deny": "Negar"
+  },
+  "Trade-TeamJoinCard": {
+    "you-have-team-members-request": "Você tem solicitação de membros da equipe",
+    "team-request": "Solicitação de equipe",
+    "see-request": "Ver Solicitação"
+  },
+  "Trade-TeamLeaderboard": {
+    "leaderboard": "Entre os melhores"
+  },
+  "Trade-TeamMembers": {
+    "team-members": "Membros do time",
+    "invite-team": "Convidar equipe",
+    "you-dont-have-a-team-yet": "Você ainda não tem uma equipe"
+  },
+  "Trade-TeamStatus": {
+    "when": "Quando",
+    "time": "Tempo",
+    "active": "Ativo",
+    "status": "Status",
+    "round-ends-in": "A rodada termina em"
+  },
+  "Trade-TeamSummary": {
+    "rank": "Classificação",
+    "members": "Membros",
+    "trades": "Negociações",
+    "winrate": "Taxa de vitória",
+    "check-team": "Verifique a equipe",
+    "invite-team": "Convidar equipe",
+    "join-team": "Junte-se à equipe",
+    "send-join-request": "Enviar solicitação de adesão",
+    "are-you-sure-to-join-this-team": "Tem certeza de se juntar a esta equipe?",
+    "yes": "Sim",
+    "no": "Não"
+  },
+  "Trade-TeamViewer": {
+    "teams": "Equipes",
+    "search-for-team": "Procure por equipe"
+  },
+  "Trade-TeamWinnerCard": {
+    "place": "Lugar",
+    "total-winnings": "Ganhos totais"
+  },
+  "Trade-TeamWinners": {
+    "winners-team": "Equipe Vencedora"
+  },
+  "Trade-HistoriesPanel": {
+    "market": "MERCADO",
+    "no-personal-trade-histories": "Sem históricos comerciais pessoais",
+    "date": "Data",
+    "time": "Tempo",
+    "address": "Endereço",
+    "type": "Tipo",
+    "price": "Preço",
+    "lev": "Leão",
+    "coll": "Cole"
+  },
+  "Trade-OpenLimitOrderModal": {
+    "wrong-limit-price": "Preço limite errado",
+    "slippage-is-0": "O deslizamento é de 0%",
+    "stop-less-is-too-big": "Parar menos é muito grande",
+    "stop-less-greater-than-price": "Pare menos > preço",
+    "take-profit-less-than-price": "Obter lucro < preço",
+    "take-profit-is-too-big": "O lucro é muito grande",
+    "leverage": "Aproveitar",
+    "collateral": "Garantia",
+    "position-size": "Tamanho da posição",
+    "trigger-price": "Preço de gatilho",
+    "execution-price": "Preço de Execução",
+    "max-spread": "Spread máximo (%)",
+    "stop-loss": "Parar a perda de",
+    "none": "Nenhum",
+    "take-profit": "Obter lucros",
+    "take-profit-price": "Preço de lucro",
+    "opening-fee": "Taxa de abertura",
+    "long": "LONGO",
+    "short": "CURTO",
+    "confirm": "confirme",
+    "cancel": "Cancelar",
+    "submit": "Enviar",
+    "update": "Atualizar"
+  },
+  "Trade-OrdersPanel": {
+    "type": "Tipo",
+    "pair": "Par",
+    "size": "Tamanho",
+    "lev": "Leão",
+    "coll": "Cole",
+    "trigger-price": "Preço de gatilho",
+    "executation-price": "Preço de execução",
+    "max-spread": "Propagação máxima",
+    "close": "Fechar",
+    "market": "MERCADO",
+    "limit": "LIMITE",
+    "stop": "PARAR",
+    "none": "Nenhum",
+    "no-ordered-trades": "Nenhuma negociação ordenada"
+  },
+  "Trade-SLTPUpdateModal": {
+    "current-price": "Preço atual",
+    "liquidation-price": "Preço de liquidação",
+    "update-sl-tp": "ATUALIZAR SL/TP",
+    "stop-loss": "Parar a perda de",
+    "update": "Atualizar",
+    "take-profit": "Obter lucros"
+  },
+  "Trade-TradeControlBar": {
+    "all": "Todos"
+  },
+  "Trade-TradeHistoryModal": {
+    "date": "Data",
+    "position-size": "Tamanho da posição",
+    "leverage": "Aproveitar",
+    "collateral": "Garantia"
+  },
+  "Trade-TradePanel": {
+    "long": "LONGO",
+    "short": "CURTO",
+    "no-opened-trades": "Nenhuma negociação aberta"
+  },
+  "Trade-WalletConnectStatus": {
+    "wallet-not-connected": "Carteira não conectada"
+  },
+  "Trade-TradeHistoryPanel": {
+    "pair": "Par",
+    "size": "Tamanho ($)",
+    "price": "Preço"
+  },
+  "Trade-CollateralBalance": {
+    "balance": "Equilíbrio"
+  },
+  "Trade-CollateralPanel": {
+    "max": "Máx."
+  },
+  "Trade-GetCollateralButton": {
+    "get-collateral": "Obtenha garantia",
+    "get": "Pegar"
+  },
+  "Trade-LeveragePanel": {
+    "leverage": "Aproveitar"
+  },
+  "Trade-OpenTradeModal": {
+    "collateral": "Garantia",
+    "leverage": "Aproveitar",
+    "position-size": "Tamanho da posição",
+    "est-open-price": "Husa. Preço aberto",
+    "max-slippage": "Deslizamento máximo",
+    "liq-price": "Líquido. Preço",
+    "stop-loss": "Parar a perda de",
+    "take-profit": "Obter lucros",
+    "fees": "Tarifas"
+  },
+  "Trade-SLTPPanel": {
+    "stop-lose-price": "Pare de perder preço",
+    "none": "Nenhum"
+  },
+  "Trade-TradeDetailPanel": {
+    "est-execution-price": "Husa. Preço de Execução",
+    "est-excution-price-description": "O preço estimado incluindo spread no qual sua negociação será executada. Não haverá spread ao fechar a negociação.",
+    "avg-spread": "Média Espalhar",
+    "slippage": "Deslizamento",
+    "take-profit-price": "Preço de lucro",
+    "slippage-description": "A sua transação será revertida se o preço mudar desfavoravelmente em mais do que esta percentagem.",
+    "notional-value": "Valor Nocional",
+    "collateral-leverage": "Garantia * Alavancagem",
+    "position-size": "Tamanho da posição",
+    "fees": "Tarifas",
+    "learn-more": "Saber mais",
+    "liq-price": "Líquido. Preço",
+    "liq-price-description": "Se este preço for atingido, a sua posição será encerrada e a sua garantia perdida."
+  },
+  "Trade-TradeSidebar": {
+    "invalid-format-of-collateral-amount": "Formato inválido do valor da garantia",
+    "balance-isnt-enough": "O equilíbrio não é suficiente",
+    "invalid-amount-of-collateral": "Quantidade inválida de garantia",
+    "invalid-leverage": "Alavancagem inválida",
+    "wrong-limit-price": "Preço limite errado",
+    "stop-less-is-too-big": "Parar menos é muito grande",
+    "stop-less-greater-than-price": "Pare menos > preço",
+    "take-profit-less-than-price": "Obter lucro < preço",
+    "take-profit-is-too-big": "O lucro é muito grande",
+    "slippage-is-0": "O deslizamento é de 0%",
+    "max-trades-reached": "Máximo de negociações alcançado",
+    "price": "Preço"
+  },
+  "Trade-PairInfoBar": {
+    "open-interest-l": "Juros em aberto (L)",
+    "open-interest-s": "Juros em aberto (S)"
+  },
+  "Trade-DashbardPage": {
+    "total-trades": "Total de negociações",
+    "winrate": "Taxa de vitória",
+    "avg-profit": "Média Lucro",
+    "avg-loss": "Média Perda",
+    "rewards-are-live": "As recompensas são ativas",
+    "account-0": "Conta"
+  },
+  "account": "Conta",
+  "Trade-RewardPage": {
+    "rewards-are-live": "As recompensas são ativas",
+    "remaining": "Restante",
+    "how-it-works": "Como funciona",
+    "view-leaderboard": "Ver placar",
+    "your-rewards": "Suas recompensas"
+  },
+  "View Leaderboard": {
+    "view-leaderboard": "Ver placar"
+  },
+  "Trade-TradePage": {
+    "chart": "Gráfico",
+    "histories": "Histórias"
+  }
+}
